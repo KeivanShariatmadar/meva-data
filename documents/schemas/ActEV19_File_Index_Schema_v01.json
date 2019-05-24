@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$version": "ActEV18_file_v01",
+  "type": "object",
+  "patternProperties": {
+    "^[a-z0-9]+.(mp4|avi)$": {
+      "type": "object",
+      "properties": {
+        "framerate": {
+          "type": "integer"
+        },
+        "filename": {
+          "type": "string"
+        },
+        "selected": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]": {
+              "type": "integer",
+              "enum": [
+                1,
+                0
+              ]
+            }
+          },
+          "required": [
+            "framerate",
+            "filename"
+          ]
+        }
+      }
+    }
+  }
+}
