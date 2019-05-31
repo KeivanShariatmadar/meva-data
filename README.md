@@ -24,8 +24,8 @@ demonstrate the file structures.
 3. Annotations
 
 The 'annotation' directory contains annotations for the MEVA Data.
-The directory contains a subv directory for each form of annotation
-provided in the repo.  Consult the annotation/README.txt for more
+The directory contains a sub directory for each form of annotation
+provided in the repo.  Consult the annotation/README.txt file for more
 information.
 
 4. Contacts
