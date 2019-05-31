@@ -21,11 +21,14 @@ ActEV19_Activities_Schema_v01.json files of the 'documents/schemas'
 directory respectively. Each schema is accompanied by example(s) to
 demonstrate the file structures.
 
+3. Annotations
 
-3. Contacts
+The 'annotation' directory contains annotations for the MEVA Data.
+The directory contains a subv directory for each form of annotation
+provided in the repo.  Consult the annotation/README.txt for more
+information.
+
+4. Contacts
 
 If you have any questions, please add a comment to the GIT Repo.
 
---------------------------------------------
-
-2019.05.24 - README created by Jonathan Fiscus
