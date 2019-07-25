@@ -4,6 +4,8 @@ This GIT Repo is the data distribution mechanism for MEVA Related
 annotations and documentation.  The repo presently consists of schemas
 for the activity annnotations.
 
+See [mevadata.org](mevadata.org) for more information.
+
 1.0 Installation
 
 This GIT repo requires no installation process.
