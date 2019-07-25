@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.529558,
+                    39.049284,
+                    243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": [
+                    -20.775880255474576,
+                    5.081582617241264,
+                    0.3593906054064351
+                ],
+                "name": "Subway Sidewalk",
+                "userRegistered": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.529265,
+                    39.04907,
+                    243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": [
+                    5.4472233337265745,
+                    -19.10106825432819,
+                    0.7207363250042702
+                ],
+                "name": "Bus Station Light",
+                "userRegistered": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.52876,
+                    39.049242,
+                    243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": [
+                    48.88530485077557,
+                    1.402794257351851,
+                    0.7110465578396865
+                ],
+                "name": "Trailer Light",
+                "userRegistered": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.528496,
+                    39.050078,
+                    243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": [
+                    70.90750975929316,
+                    94.80040584339383,
+                    0.44586060245302495
+                ],
+                "name": "Stop Sign School Parking",
+                "userRegistered": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.529243,
+                    39.050116,
+                    242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": [
+                    5.334435608236992,
+                    95.94855420745917,
+                    -0.18420633263722874
+                ],
+                "name": "School Outer Circle Light",
+                "userRegistered": true
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
