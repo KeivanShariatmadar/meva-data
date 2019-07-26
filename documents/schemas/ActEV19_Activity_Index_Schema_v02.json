@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$version": "ActEV19_Activity_Index_v02",
+  "type": "object",
+  "title": "The activity index json schema",
+  "propertyNames": {
+    "enum": [
+      "Closing",
+      "Closing_Trunk",
+      "Entering",
+      "Exiting",
+      "Loading",
+      "Open_Trunk",
+      "Opening",
+      "Transport_HeavyCarry",
+      "Unloading",
+      "vehicle_turning_left",
+      "vehicle_turning_right",
+      "vehicle_u_turn",
+      "Interacts",
+      "Pull",
+      "Riding",
+      "Talking",
+      "activity_carrying",
+      "specialized_talking_phone",
+      "specialized_texting_phone"
+    ]
+  },
+  "patternProperties": {
+    ".*": {
+      "type": "object",
+      "optional": [
+        "objectTypes"
+      ],
+      "properties": {
+        "objectTypes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "Door",
+              "Person",
+              "Vehicle",
+              "Construction_Vehicle",
+	      "Bike",
+	      "Other",
+	      "Prop",
+	      "Push_Pulled_Object"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
