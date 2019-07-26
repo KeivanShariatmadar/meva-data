@@ -1,0 +1,59 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$version": "ActEV18_file_v02",
+  "type": "object",
+  "patternProperties": {
+    "^[A-Za-z_0-9\\-\\.]+.(mp4|avi)$": {
+      "type": "object",
+      "required": [
+        "framerate",
+        "camera_type",
+        "filename"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "framerate": {
+          "type": "number"
+        },
+        "camera_id": {
+          "type": "string"
+        },
+        "begin_time": {
+          "type": "string"
+        },
+        "end_time": {
+          "type": "string"
+        },
+        "datetime": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "camera_type": {
+          "type": "string",
+          "enum": [
+            "EO",
+            "EO_NIR",
+            "IR"
+          ]
+        },
+        "filename": {
+          "type": "string"
+        },
+        "selected": {
+          "type": "object",
+          "patternProperties": {
+            "^[0-9]": {
+              "type": "integer",
+              "enum": [
+                1,
+                0
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
