@@ -4,5 +4,6 @@ The KF1 collection took place in two separate events, in March and May of 2018. 
 
 This directory includes:
 
-* [2018-03](2018-03) is a directory containing models for the March 2018 collection event.
+* [2018-03](2018-03) is a directory containing models for exterior cameras for the March 2018 collection event.
 
+* [indoor-gym](indoor-gym) is a directory containing models for the interior gym cameras for the March 2018 collection event.
