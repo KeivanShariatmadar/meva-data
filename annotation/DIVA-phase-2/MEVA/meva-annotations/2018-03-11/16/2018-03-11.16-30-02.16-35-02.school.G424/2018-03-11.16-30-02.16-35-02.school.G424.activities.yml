@@ -1,6 +1,0 @@
-- { meta: "2018-03-11.16-30-02.16-35-02.school.G424" }
-- { meta: { team: "Kitware" } }
-- { meta: "Vehicle_Stopping 1 instances" }
-- { meta: "Vehicle_Starting 1 instances" }
-- { act: { act2: {Vehicle_Stopping: 1.0}, id2: 9087777041030391770, timespan: [{tsr0: [3726, 3809]}], src_status: janitor, actors: [{id1: 4326767916364997255, timespan: [{tsr0: [3726, 3809]}]}] } }
-- { act: { act2: {Vehicle_Starting: 1.0}, id2: 2303519861730059884, timespan: [{tsr0: [3841, 3931]}], src_status: janitor, actors: [{id1: 1727789386514244687, timespan: [{tsr0: [3841, 3931]}]}] } }
