@@ -1,6 +1,6 @@
 - { meta: "2018-03-11.16-20-00.16-25-00.school.G330" }
 - { meta: { team: "Kitware" } }
-- { meta: "Set_Down_Object 30 instances" }
+- { meta: "Set_Down_Object 29 instances" }
 - { meta: "Text_On_Phone 20 instances" }
 - { meta: "Sit_Down 76 instances" }
 - { meta: "People_Talking 20 instances" }
@@ -94,7 +94,6 @@
 - { act: { act2: {Stand_Up: 1.0}, id2: 6253256564535665856, timespan: [{tsr0: [7026, 7072]}], src_status: janitor, actors: [{id1: 5607663884219162765, timespan: [{tsr0: [7026, 7072]}]}] } }
 - { act: { act2: {Sit_Down: 1.0}, id2: 6666662513798457063, timespan: [{tsr0: [7120, 7205]}], src_status: janitor, actors: [{id1: 6264743449141420728, timespan: [{tsr0: [7120, 7205]}]}] } }
 - { act: { act2: {Set_Down_Object: 1.0}, id2: 9004245298648458762, timespan: [{tsr0: [1106, 1199]}], src_status: janitor, actors: [{id1: 4524905690598482787, timespan: [{tsr0: [1106, 1199]}]}, {id1: 7256653037197010807, timespan: [{tsr0: [1106, 1199]}]}] } }
-- { act: { act2: {Set_Down_Object: 1.0}, id2: 7124019508067411200, timespan: [{tsr0: [1106, 1199]}], src_status: janitor, actors: [{id1: 509629642423640319, timespan: [{tsr0: [1106, 1199]}]}, {id1: 8360898256472188709, timespan: [{tsr0: [1106, 1199]}]}] } }
 - { act: { act2: {Sit_Down: 1.0}, id2: 6465986975111127060, timespan: [{tsr0: [1385, 1435]}], src_status: janitor, actors: [{id1: 4640060959215658237, timespan: [{tsr0: [1385, 1435]}]}] } }
 - { act: { act2: {Pick_Up_Object: 1.0}, id2: 3815207094945325435, timespan: [{tsr0: [1505, 1562]}], src_status: janitor, actors: [{id1: 5327656443094671804, timespan: [{tsr0: [1505, 1562]}]}, {id1: 9081246004302423921, timespan: [{tsr0: [1505, 1562]}]}] } }
 - { act: { act2: {Sit_Down: 1.0}, id2: 9177392331268957572, timespan: [{tsr0: [1660, 1714]}], src_status: janitor, actors: [{id1: 1222733312656418603, timespan: [{tsr0: [1660, 1714]}]}] } }
