@@ -1,0 +1,53 @@
+{
+    "activities": [
+        {
+            "activityID": 223,
+            "activity": "object_transfer",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-15.15-50-01.15-55-01.bus.G506.avi": {
+                    "6313": 1,
+                    "6315": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-15.15-50-01.15-55-01.bus.G506.avi": {
+                            "6313": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1642,
+                                    "y": 164,
+                                    "w": 93,
+                                    "h": 137
+                                }
+                            },
+                            "6314": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1642,
+                                    "y": 164,
+                                    "w": 93,
+                                    "h": 137
+                                }
+                            },
+                            "6315": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1642,
+                                    "y": 164,
+                                    "w": 93,
+                                    "h": 137
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-15.15-50-01.15-55-01.bus.G506.avi"
+}

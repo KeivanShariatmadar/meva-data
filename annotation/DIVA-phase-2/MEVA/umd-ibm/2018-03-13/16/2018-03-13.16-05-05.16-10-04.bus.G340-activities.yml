@@ -1,0 +1,15 @@
+[{meta: 2018-03-13.16-05-05.16-10-04.bus.G340.avi}, {act: {act2: !!set {vehicle_turning_left: null},
+      actors: [{id1: 0, timespan: [{tsr0: [7527, 7602]}]}], id2: 1540, timespan: [
+        {tsr0: [7527, 7602]}]}}, {act: {act2: !!set {vehicle_turning_left: null},
+      actors: [{id1: 1, timespan: [{tsr0: [7820, 7870]}]}], id2: 1541, timespan: [
+        {tsr0: [7820, 7870]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [7946, 8036]}]}], id2: 1542, timespan: [{tsr0: [
+            7946, 8036]}]}}, {act: {act2: !!set {vehicle_drops_off_person: null},
+      actors: [{id1: 3, timespan: [{tsr0: [8233, 8503]}]}], id2: 1543, timespan: [
+        {tsr0: [8233, 8503]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 4, timespan: [{tsr0: [8299, 8364]}]}], id2: 1544, timespan: [
+        {tsr0: [8299, 8364]}]}}, {act: {act2: !!set {person_closes_facility_door: null},
+      actors: [{id1: 5, timespan: [{tsr0: [8438, 8558]}]}], id2: 1545, timespan: [
+        {tsr0: [8438, 8558]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 6, timespan: [{tsr0: [8801, 8891]}]}], id2: 1546, timespan: [{tsr0: [
+            8801, 8891]}]}}]

@@ -1,0 +1,96 @@
+[{meta: 2018-03-09.10-10-00.10-15-00.school.G336.avi}, {act: {act2: !!set {vehicle_turning_left: null},
+      actors: [{id1: 0, timespan: [{tsr0: [520, 698]}]}], id2: 0, timespan: [{tsr0: [
+            520, 698]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 1, timespan: [{tsr0: [4220, 4528]}]}], id2: 1, timespan: [{tsr0: [4220,
+            4528]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [6700, 7548]}]}], id2: 2, timespan: [{tsr0: [6700,
+            7548]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 3, timespan: [{tsr0: [2610, 2968]}]}], id2: 3, timespan: [{tsr0: [2610,
+            2968]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 4, timespan: [{tsr0: [2550, 3308]}]}], id2: 4, timespan: [{tsr0: [2550,
+            3308]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 5, timespan: [{tsr0: [3570, 4418]}]}], id2: 5, timespan: [{tsr0: [3570,
+            4418]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 6, timespan: [{tsr0: [4540, 4848]}]}], id2: 6, timespan: [{tsr0: [4540,
+            4848]}]}}, {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [
+        {id1: 7, timespan: [{tsr0: [7570, 7758]}]}], id2: 7, timespan: [{tsr0: [7570,
+            7758]}]}}, {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [
+        {id1: 8, timespan: [{tsr0: [8189, 8998]}]}], id2: 8, timespan: [{tsr0: [8189,
+            8998]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 9,
+          timespan: [{tsr0: [8070, 8238]}]}], id2: 9, timespan: [{tsr0: [8070, 8238]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 10, timespan: [{tsr0: [
+                8770, 8998]}]}], id2: 10, timespan: [{tsr0: [8770, 8998]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 11, timespan: [{tsr0: [
+                7970, 8128]}]}], id2: 11, timespan: [{tsr0: [7970, 8128]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 12, timespan: [{tsr0: [
+                8270, 8998]}]}], id2: 12, timespan: [{tsr0: [8270, 8998]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 13, timespan: [{tsr0: [
+                8410, 8668]}]}], id2: 13, timespan: [{tsr0: [8410, 8668]}]}}, {act: {
+      act2: !!set {person_opens_facility_door: null}, actors: [{id1: 14, timespan: [
+            {tsr0: [8189, 8337]}]}], id2: 14, timespan: [{tsr0: [8189, 8337]}]}},
+  {act: {act2: !!set {person_closes_facility_door: null}, actors: [{id1: 15, timespan: [
+            {tsr0: [8819, 8998]}]}], id2: 15, timespan: [{tsr0: [8819, 8998]}]}},
+  {act: {act2: !!set {vehicle_u_turn: null}, actors: [{id1: 16, timespan: [{tsr0: [
+                538, 683]}]}], id2: 16, timespan: [{tsr0: [538, 683]}]}}, {act: {
+      act2: !!set {Open_Trunk: null}, actors: [{id1: 17, timespan: [{tsr0: [8671,
+                8711]}]}], id2: 17, timespan: [{tsr0: [8671, 8711]}]}}, {act: {act2: !!set {
+        vehicle_turning_left: null}, actors: [{id1: 18, timespan: [{tsr0: [2226, 2294]}]}],
+      id2: 18, timespan: [{tsr0: [2226, 2294]}]}}, {act: {act2: !!set {vehicle_turning_left: null},
+      actors: [{id1: 19, timespan: [{tsr0: [4323, 4440]}]}], id2: 19, timespan: [
+        {tsr0: [4323, 4440]}]}}, {act: {act2: !!set {vehicle_turning_left: null},
+      actors: [{id1: 20, timespan: [{tsr0: [6789, 7058]}]}], id2: 20, timespan: [
+        {tsr0: [6789, 7058]}]}}, {act: {act2: !!set {vehicle_turning_left: null},
+      actors: [{id1: 21, timespan: [{tsr0: [8030, 8072]}]}], id2: 21, timespan: [
+        {tsr0: [8030, 8072]}]}}, {act: {act2: !!set {Closing_Trunk: null}, actors: [
+        {id1: 22, timespan: [{tsr0: [8789, 8830]}]}], id2: 22, timespan: [{tsr0: [
+            8789, 8830]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 25, timespan: [{tsr0: [4682, 4720]}]}], id2: 25, timespan: [{tsr0: [
+            4682, 4720]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 26, timespan: [{tsr0: [7163, 7463]}]}], id2: 26, timespan: [{tsr0: [
+            7163, 7463]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 27, timespan: [{tsr0: [7680, 7750]}]}], id2: 27, timespan: [{tsr0: [
+            7680, 7750]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 28, timespan: [{tsr0: [8102, 8130]}]}], id2: 28, timespan: [{tsr0: [
+            8102, 8130]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 29, timespan: [{tsr0: [8338, 8366]}]}], id2: 29, timespan: [{tsr0: [
+            8338, 8366]}]}}, {act: {act2: !!set {person_exits_vehicle: null}, actors: [
+        {id1: 30, timespan: [{tsr0: [7960, 8004]}]}], id2: 30, timespan: [{tsr0: [
+            7960, 8004]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 32, timespan: [{tsr0: [8305, 8345]}]}], id2: 32, timespan: [
+        {tsr0: [8305, 8345]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 33, timespan: [{tsr0: [8305, 8345]}]}], id2: 33, timespan: [
+        {tsr0: [8305, 8345]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 34, timespan: [{tsr0: [8474, 8500]}]}], id2: 34, timespan: [
+        {tsr0: [8474, 8500]}]}}, {act: {act2: !!set {vehicle_u_turn: null}, actors: [
+        {id1: 36, timespan: [{tsr0: [2179, 2703]}]}], id2: 36, timespan: [{tsr0: [
+            2179, 2703]}]}}, {act: {act2: !!set {vehicle_u_turn: null}, actors: [
+        {id1: 37, timespan: [{tsr0: [2720, 3112]}]}], id2: 37, timespan: [{tsr0: [
+            2720, 3112]}]}}, {act: {act2: !!set {vehicle_u_turn: null}, actors: [
+        {id1: 38, timespan: [{tsr0: [3691, 4408]}]}], id2: 38, timespan: [{tsr0: [
+            3691, 4408]}]}}, {act: {act2: !!set {vehicle_u_turn: null}, actors: [
+        {id1: 39, timespan: [{tsr0: [4310, 4485]}]}], id2: 39, timespan: [{tsr0: [
+            4310, 4485]}]}}, {act: {act2: !!set {vehicle_u_turn: null}, actors: [
+        {id1: 40, timespan: [{tsr0: [6793, 7176]}]}], id2: 40, timespan: [{tsr0: [
+            6793, 7176]}]}}, {act: {act2: !!set {vehicle_u_turn: null}, actors: [
+        {id1: 41, timespan: [{tsr0: [7191, 7724]}]}], id2: 41, timespan: [{tsr0: [
+            7191, 7724]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 42, timespan: [{tsr0: [4661, 4754]}]}], id2: 42, timespan: [{tsr0: [
+            4661, 4754]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 44, timespan: [{tsr0: [8068, 8232]}]}], id2: 44, timespan: [{tsr0: [
+            8068, 8232]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 45, timespan: [{tsr0: [8361, 8411]}]}], id2: 45, timespan: [{tsr0: [
+            8361, 8411]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 46, timespan: [{tsr0: [8435, 8512]}]}], id2: 46, timespan: [{tsr0: [
+            8435, 8512]}]}}, {act: {act2: !!set {person_exits_vehicle: null}, actors: [
+        {id1: 47, timespan: [{tsr0: [8335, 8380]}]}], id2: 47, timespan: [{tsr0: [
+            8335, 8380]}]}}, {act: {act2: !!set {person_exits_vehicle: null}, actors: [
+        {id1: 48, timespan: [{tsr0: [8506, 8539]}]}], id2: 48, timespan: [{tsr0: [
+            8506, 8539]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 49, timespan: [{tsr0: [8370, 8447]}]}], id2: 49, timespan: [
+        {tsr0: [8370, 8447]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 50, timespan: [{tsr0: [8818, 8856]}]}], id2: 50, timespan: [
+        {tsr0: [8818, 8856]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 51, timespan: [{tsr0: [8537, 8597]}]}], id2: 51, timespan: [
+        {tsr0: [8537, 8597]}]}}, {act: {act2: !!set {Open_Trunk: null}, actors: [
+        {id1: 52, timespan: [{tsr0: [8660, 8746]}]}], id2: 52, timespan: [{tsr0: [
+            8660, 8746]}]}}]

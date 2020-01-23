@@ -1,0 +1,48 @@
+[{meta: 2018-03-09.10-10-01.10-15-01.hospital.G436.avi}, {act: {act2: !!set {vehicle_turning_right: null},
+      actors: [{id1: 0, timespan: [{tsr0: [1800, 1968]}]}], id2: 0, timespan: [{tsr0: [
+            1800, 1968]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 1, timespan: [{tsr0: [1760, 2408]}]}], id2: 1, timespan: [{tsr0: [1760,
+            2408]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [3600, 4418]}]}], id2: 2, timespan: [{tsr0: [3600,
+            4418]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 3, timespan: [{tsr0: [4380, 4818]}]}], id2: 3, timespan: [{tsr0: [4380,
+            4818]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 4, timespan: [{tsr0: [6900, 7508]}]}], id2: 4, timespan: [{tsr0: [6900,
+            7508]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 5, timespan: [{tsr0: [2120, 2918]}]}], id2: 5, timespan: [{tsr0: [2120,
+            2918]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 6, timespan: [{tsr0: [7660, 7828]}]}], id2: 6, timespan: [{tsr0: [7660,
+            7828]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 7, timespan: [{tsr0: [8079, 8247]}]}], id2: 7, timespan: [{tsr0: [8079,
+            8247]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 8, timespan: [{tsr0: [7899, 8087]}]}], id2: 8, timespan: [{tsr0: [7899,
+            8087]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 9,
+          timespan: [{tsr0: [7520, 7738]}]}], id2: 9, timespan: [{tsr0: [7520, 7738]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 10, timespan: [{tsr0: [
+                7840, 8168]}]}], id2: 10, timespan: [{tsr0: [7840, 8168]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 11, timespan: [{tsr0: [
+                8259, 8637]}]}], id2: 11, timespan: [{tsr0: [8259, 8637]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 12, timespan: [{tsr0: [
+                8099, 8347]}]}], id2: 12, timespan: [{tsr0: [8099, 8347]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 13, timespan: [{tsr0: [
+                7970, 8248]}]}], id2: 13, timespan: [{tsr0: [7970, 8248]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 14, timespan: [{tsr0: [
+                8849, 8998]}]}], id2: 14, timespan: [{tsr0: [8849, 8998]}]}}, {act: {
+      act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 15, timespan: [
+            {tsr0: [7520, 8248]}]}], id2: 15, timespan: [{tsr0: [7520, 8248]}]}},
+  {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 16, timespan: [
+            {tsr0: [7849, 8177]}]}], id2: 16, timespan: [{tsr0: [7849, 8177]}]}},
+  {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 17, timespan: [
+            {tsr0: [8099, 8998]}]}], id2: 17, timespan: [{tsr0: [8099, 8998]}]}},
+  {act: {act2: !!set {Open_Trunk: null}, actors: [{id1: 18, timespan: [{tsr0: [8609,
+                8687]}]}], id2: 18, timespan: [{tsr0: [8609, 8687]}]}}, {act: {act2: !!set {
+        person_opens_vehicle_door: null}, actors: [{id1: 19, timespan: [{tsr0: [8409,
+                8477]}]}], id2: 19, timespan: [{tsr0: [8409, 8477]}]}}, {act: {act2: !!set {
+        vehicle_turning_right: null}, actors: [{id1: 20, timespan: [{tsr0: [4598,
+                4729]}]}], id2: 20, timespan: [{tsr0: [4598, 4729]}]}}, {act: {act2: !!set {
+        vehicle_stopping: null}, actors: [{id1: 21, timespan: [{tsr0: [8109, 8193]}]}],
+      id2: 21, timespan: [{tsr0: [8109, 8193]}]}}, {act: {act2: !!set {vehicle_stopping: null},
+      actors: [{id1: 22, timespan: [{tsr0: [8288, 8377]}]}], id2: 22, timespan: [
+        {tsr0: [8288, 8377]}]}}, {act: {act2: !!set {Closing_Trunk: null}, actors: [
+        {id1: 25, timespan: [{tsr0: [8728, 8823]}]}], id2: 25, timespan: [{tsr0: [
+            8728, 8823]}]}}]

@@ -1,0 +1,107 @@
+{
+    "activities": [
+        {
+            "activityID": 210,
+            "activity": "hand_interaction",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-15.15-35-00.15-40-00.school.G474.avi": {
+                    "6506": 1,
+                    "6514": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-15.15-35-00.15-40-00.school.G474.avi": {
+                            "6506": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            },
+                            "6507": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            },
+                            "6508": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            },
+                            "6509": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 40,
+                                    "h": 33
+                                }
+                            },
+                            "6510": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            },
+                            "6511": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            },
+                            "6512": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            },
+                            "6513": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            },
+                            "6514": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 213,
+                                    "y": 128,
+                                    "w": 39,
+                                    "h": 33
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-15.15-35-00.15-40-00.school.G474.avi"
+}

@@ -1,0 +1,15 @@
+[{meta: 2018-03-12.10-45-00.10-50-00.hospital.G479.avi}, {act: {act2: !!set {person_opens_facility_door: null},
+      actors: [{id1: 7231, timespan: [{tsr0: [8045, 8084]}]}], id2: 7231, timespan: [
+        {tsr0: [8045, 8084]}]}}, {act: {act2: !!set {person_enters_through_structure: null},
+      actors: [{id1: 7232, timespan: [{tsr0: [8045, 8284]}]}], id2: 7232, timespan: [
+        {tsr0: [8045, 8284]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 7233, timespan: [{tsr0: [8255, 8354]}]}], id2: 7233, timespan: [
+        {tsr0: [8255, 8354]}]}}, {act: {act2: !!set {person_enters_vehicle: null},
+      actors: [{id1: 7234, timespan: [{tsr0: [8255, 8534]}]}], id2: 7234, timespan: [
+        {tsr0: [8255, 8534]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 7235, timespan: [{tsr0: [8345, 8534]}]}], id2: 7235, timespan: [
+        {tsr0: [8345, 8534]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 7236, timespan: [{tsr0: [8865, 8985]}]}], id2: 7236, timespan: [{tsr0: [
+            8865, 8985]}]}}, {act: {act2: !!set {vehicle_reversing: null}, actors: [
+        {id1: 7237, timespan: [{tsr0: [8925, 8985]}]}], id2: 7237, timespan: [{tsr0: [
+            8925, 8985]}]}}]

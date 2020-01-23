@@ -1,0 +1,48 @@
+[{meta: 2018-03-07.17-30-00.17-35-00.bus.G340.avi}, {act: {act2: !!set {vehicle_turning_right: null},
+      actors: [{id1: 0, timespan: [{tsr0: [4228, 4466]}]}], id2: 847, timespan: [
+        {tsr0: [4228, 4466]}]}}, {act: {act2: !!set {Open_Trunk: null}, actors: [
+        {id1: 1, timespan: [{tsr0: [5682, 5910]}]}], id2: 848, timespan: [{tsr0: [
+            5682, 5910]}]}}, {act: {act2: !!set {vehicle_picks_up_person: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [6222, 8232]}]}], id2: 849, timespan: [{tsr0: [
+            6222, 8232]}]}}, {act: {act2: !!set {vehicle_picks_up_person: null}, actors: [
+        {id1: 3, timespan: [{tsr0: [5070, 6380]}]}], id2: 850, timespan: [{tsr0: [
+            5070, 6380]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 4, timespan: [{tsr0: [6400, 6918]}]}], id2: 851, timespan: [{tsr0: [
+            6400, 6918]}]}}, {act: {act2: !!set {person_loads_vehicle: null}, actors: [
+        {id1: 5, timespan: [{tsr0: [8092, 8360]}]}], id2: 852, timespan: [{tsr0: [
+            8092, 8360]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 6, timespan: [{tsr0: [8728, 8966]}]}], id2: 853, timespan: [{tsr0: [
+            8728, 8966]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 7, timespan: [{tsr0: [4238, 7489]}]}], id2: 854, timespan: [{tsr0: [
+            4238, 7489]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 8, timespan: [{tsr0: [6156, 6320]}]}], id2: 855, timespan: [{tsr0: [
+            6156, 6320]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 9, timespan: [{tsr0: [6996, 7162]}]}], id2: 856, timespan: [{tsr0: [
+            6996, 7162]}]}}, {act: {act2: !!set {Open_Trunk: null}, actors: [{id1: 10,
+          timespan: [{tsr0: [5770, 5892]}]}], id2: 857, timespan: [{tsr0: [5770, 5892]}]}},
+  {act: {act2: !!set {Open_Trunk: null}, actors: [{id1: 11, timespan: [{tsr0: [8118,
+                8233]}]}], id2: 858, timespan: [{tsr0: [8118, 8233]}]}}, {act: {act2: !!set {
+        vehicle_reversing: null}, actors: [{id1: 12, timespan: [{tsr0: [8809, 8990]}]}],
+      id2: 859, timespan: [{tsr0: [8809, 8990]}]}}, {act: {act2: !!set {vehicle_starting: null},
+      actors: [{id1: 13, timespan: [{tsr0: [6679, 6800]}]}], id2: 860, timespan: [
+        {tsr0: [6679, 6800]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 14, timespan: [{tsr0: [6232, 6279]}]}], id2: 861, timespan: [
+        {tsr0: [6232, 6279]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 15, timespan: [{tsr0: [522, 7456]}]}], id2: 862, timespan: [{tsr0: [
+            522, 7456]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 16, timespan: [{tsr0: [685, 899]}]}], id2: 863, timespan: [{tsr0: [
+            685, 899]}]}}, {act: {act2: !!set {person_exits_vehicle: null}, actors: [
+        {id1: 18, timespan: [{tsr0: [2406, 2586]}]}], id2: 864, timespan: [{tsr0: [
+            2406, 2586]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 21, timespan: [{tsr0: [6593, 6815]}]}], id2: 865, timespan: [{tsr0: [
+            6593, 6815]}]}}, {act: {act2: !!set {person_loads_vehicle: null}, actors: [
+        {id1: 23, timespan: [{tsr0: [5886, 6031]}]}], id2: 866, timespan: [{tsr0: [
+            5886, 6031]}]}}, {act: {act2: !!set {person_enters_vehicle: null}, actors: [
+        {id1: 24, timespan: [{tsr0: [6222, 6271]}]}], id2: 867, timespan: [{tsr0: [
+            6222, 6271]}]}}, {act: {act2: !!set {person_enters_vehicle: null}, actors: [
+        {id1: 25, timespan: [{tsr0: [6265, 6331]}]}], id2: 868, timespan: [{tsr0: [
+            6265, 6331]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 26, timespan: [{tsr0: [6225, 6249]}]}], id2: 869, timespan: [
+        {tsr0: [6225, 6249]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 27, timespan: [{tsr0: [6269, 6312]}]}], id2: 870, timespan: [
+        {tsr0: [6269, 6312]}]}}]

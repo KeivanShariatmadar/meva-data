@@ -1,0 +1,53 @@
+{
+    "activities": [
+        {
+            "activityID": 200,
+            "activity": "Riding",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-15.15-45-00.15-50-00.bus.G475.avi": {
+                    "6722": 1,
+                    "6724": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-15.15-45-00.15-50-00.bus.G475.avi": {
+                            "6722": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 12,
+                                    "y": 21,
+                                    "w": 209,
+                                    "h": 26
+                                }
+                            },
+                            "6723": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 12,
+                                    "y": 21,
+                                    "w": 209,
+                                    "h": 26
+                                }
+                            },
+                            "6724": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 12,
+                                    "y": 21,
+                                    "w": 209,
+                                    "h": 26
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-15.15-45-00.15-50-00.bus.G475.avi"
+}

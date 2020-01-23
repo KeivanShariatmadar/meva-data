@@ -1,0 +1,35 @@
+[{meta: 2018-03-13.17-10-05.17-15-05.bus.G340.avi}, {act: {act2: !!set {vehicle_drops_off_person: null},
+      actors: [{id1: 0, timespan: [{tsr0: [3380, 3960]}]}], id2: 3780, timespan: [
+        {tsr0: [3380, 3960]}]}}, {act: {act2: !!set {person_exits_vehicle: null},
+      actors: [{id1: 1, timespan: [{tsr0: [3427, 3447]}]}], id2: 3781, timespan: [
+        {tsr0: [3427, 3447]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [3600, 3611]}]}], id2: 3782, timespan: [{tsr0: [
+            3600, 3611]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 3, timespan: [{tsr0: [3934, 3964]}]}], id2: 3783, timespan: [
+        {tsr0: [3934, 3964]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 4, timespan: [{tsr0: [3971, 4166]}]}], id2: 3784, timespan: [
+        {tsr0: [3971, 4166]}]}}, {act: {act2: !!set {vehicle_drops_off_person: null},
+      actors: [{id1: 5, timespan: [{tsr0: [3974, 4009]}]}], id2: 3785, timespan: [
+        {tsr0: [3974, 4009]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 6, timespan: [{tsr0: [4031, 4066]}]}], id2: 3786, timespan: [
+        {tsr0: [4031, 4066]}]}}, {act: {act2: !!set {vehicle_drops_off_person: null},
+      actors: [{id1: 7, timespan: [{tsr0: [4069, 4109]}]}], id2: 3787, timespan: [
+        {tsr0: [4069, 4109]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 8, timespan: [{tsr0: [4079, 4079]}]}], id2: 3788, timespan: [
+        {tsr0: [4079, 4079]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 9, timespan: [{tsr0: [4079, 4109]}]}], id2: 3789, timespan: [
+        {tsr0: [4079, 4109]}]}}, {act: {act2: !!set {vehicle_reversing: null}, actors: [
+        {id1: 10, timespan: [{tsr0: [4288, 4528]}]}], id2: 3790, timespan: [{tsr0: [
+            4288, 4528]}]}}, {act: {act2: !!set {vehicle_reversing: null}, actors: [
+        {id1: 11, timespan: [{tsr0: [4500, 4535]}]}], id2: 3791, timespan: [{tsr0: [
+            4500, 4535]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 12, timespan: [{tsr0: [4617, 4627]}]}], id2: 3792, timespan: [{tsr0: [
+            4617, 4627]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 13, timespan: [{tsr0: [4906, 5011]}]}], id2: 3793, timespan: [{tsr0: [
+            4906, 5011]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 14, timespan: [{tsr0: [7964, 8044]}]}], id2: 3794, timespan: [{tsr0: [
+            7964, 8044]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 15, timespan: [{tsr0: [8282, 8432]}]}], id2: 3795, timespan: [{tsr0: [
+            8282, 8432]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 16, timespan: [{tsr0: [8296, 8416]}]}], id2: 3796, timespan: [{tsr0: [
+            8296, 8416]}]}}]

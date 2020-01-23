@@ -1,0 +1,79 @@
+{
+    "activities": [
+        {
+            "activityID": 3067,
+            "localization": {
+                "2018-03-13.17-35-00.17-40-00.bus.G506.avi": {
+                    "5738": 1,
+                    "5743": 0
+                }
+            },
+            "activity": "person_closes_vehicle_door",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-13.17-35-00.17-40-00.bus.G506.avi": {
+                            "5738": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1779,
+                                    "y": 6,
+                                    "w": 74,
+                                    "h": 65
+                                }
+                            },
+                            "5739": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1785,
+                                    "y": 9,
+                                    "w": 61,
+                                    "h": 67
+                                }
+                            },
+                            "5740": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1785,
+                                    "y": 9,
+                                    "w": 61,
+                                    "h": 67
+                                }
+                            },
+                            "5741": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1785,
+                                    "y": 9,
+                                    "w": 61,
+                                    "h": 67
+                                }
+                            },
+                            "5742": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1785,
+                                    "y": 9,
+                                    "w": 61,
+                                    "h": 67
+                                }
+                            },
+                            "5743": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1785,
+                                    "y": 9,
+                                    "w": 61,
+                                    "h": 67
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-13.17-35-00.17-40-00.bus.G506.avi"
+}
