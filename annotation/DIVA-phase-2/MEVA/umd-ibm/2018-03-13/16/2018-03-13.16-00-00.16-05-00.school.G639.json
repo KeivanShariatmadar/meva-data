@@ -1,0 +1,125 @@
+{
+    "activities": [
+        {
+            "activityID": 6495,
+            "localization": {
+                "2018-03-13.16-00-00.16-05-00.school.G639.avi": {
+                    "1437": 0
+                }
+            },
+            "activity": "person_enters_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-13.16-00-00.16-05-00.school.G639.avi": {
+                            "1437": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 500,
+                                    "y": 1456,
+                                    "w": 91,
+                                    "h": 211
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "activityID": 6496,
+            "localization": {
+                "2018-03-13.16-00-00.16-05-00.school.G639.avi": {
+                    "1597": 1,
+                    "1604": 0
+                }
+            },
+            "activity": "person_enters_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "1",
+                    "localization": {
+                        "2018-03-13.16-00-00.16-05-00.school.G639.avi": {
+                            "1597": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 518,
+                                    "y": 1381,
+                                    "w": 88,
+                                    "h": 183
+                                }
+                            },
+                            "1598": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 531,
+                                    "y": 1403,
+                                    "w": 87,
+                                    "h": 187
+                                }
+                            },
+                            "1599": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 527,
+                                    "y": 1343,
+                                    "w": 83,
+                                    "h": 200
+                                }
+                            },
+                            "1600": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 522,
+                                    "y": 1364,
+                                    "w": 109,
+                                    "h": 215
+                                }
+                            },
+                            "1601": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 527,
+                                    "y": 1358,
+                                    "w": 62,
+                                    "h": 188
+                                }
+                            },
+                            "1602": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 525,
+                                    "y": 1369,
+                                    "w": 66,
+                                    "h": 153
+                                }
+                            },
+                            "1603": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 520,
+                                    "y": 1373,
+                                    "w": 87,
+                                    "h": 222
+                                }
+                            },
+                            "1604": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 528,
+                                    "y": 1374,
+                                    "w": 93,
+                                    "h": 236
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-13.16-00-00.16-05-00.school.G639.avi"
+}

@@ -1,0 +1,16 @@
+[{meta: 2018-03-15.15-10-01.15-15-01.bus.G506.avi}, {act: {act2: !!set {Open_Trunk: null},
+      actors: [{id1: 99, timespan: [{tsr0: [2860, 2867]}]}], id2: 99, timespan: [
+        {tsr0: [2860, 2867]}]}}, {act: {act2: !!set {Transport_HeavyCarry: null},
+      actors: [{id1: 99, timespan: [{tsr0: [2865, 2867]}]}], id2: 100, timespan: [
+        {tsr0: [2865, 2867]}]}}, {act: {act2: !!set {Riding: null}, actors: [{id1: 99,
+          timespan: [{tsr0: [2865, 2867]}]}], id2: 101, timespan: [{tsr0: [2865, 2867]}]}},
+  {act: {act2: !!set {Unloading: null}, actors: [{id1: 99, timespan: [{tsr0: [2865,
+                2867]}]}], id2: 102, timespan: [{tsr0: [2865, 2867]}]}}, {act: {act2: !!set {
+        person_loads_vehicle: null}, actors: [{id1: 99, timespan: [{tsr0: [2865, 2867]}]}],
+      id2: 103, timespan: [{tsr0: [2865, 2867]}]}}, {act: {act2: !!set {Closing_Trunk: null},
+      actors: [{id1: 99, timespan: [{tsr0: [2866, 2867]}]}], id2: 104, timespan: [
+        {tsr0: [2866, 2867]}]}}, {act: {act2: !!set {Transport_HeavyCarry: null},
+      actors: [{id1: 99, timespan: [{tsr0: [3658, 3782]}]}], id2: 272, timespan: [
+        {tsr0: [3658, 3782]}]}}, {act: {act2: !!set {Transport_HeavyCarry: null},
+      actors: [{id1: 99, timespan: [{tsr0: [5400, 5642]}]}], id2: 273, timespan: [
+        {tsr0: [5400, 5642]}]}}]

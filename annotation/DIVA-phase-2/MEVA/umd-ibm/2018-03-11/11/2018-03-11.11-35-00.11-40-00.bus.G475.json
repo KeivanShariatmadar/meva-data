@@ -1,0 +1,79 @@
+{
+    "activities": [
+        {
+            "activityID": 498,
+            "localization": {
+                "2018-03-11.11-35-00.11-40-00.bus.G475.avi": {
+                    "2223": 1,
+                    "2228": 0
+                }
+            },
+            "activity": "vehicle_stopping",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-11.11-35-00.11-40-00.bus.G475.avi": {
+                            "2223": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 72,
+                                    "y": 7,
+                                    "w": 98,
+                                    "h": 62
+                                }
+                            },
+                            "2224": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 80,
+                                    "y": 8,
+                                    "w": 77,
+                                    "h": 47
+                                }
+                            },
+                            "2225": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 80,
+                                    "y": 8,
+                                    "w": 77,
+                                    "h": 47
+                                }
+                            },
+                            "2226": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 80,
+                                    "y": 8,
+                                    "w": 77,
+                                    "h": 47
+                                }
+                            },
+                            "2227": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 80,
+                                    "y": 8,
+                                    "w": 77,
+                                    "h": 47
+                                }
+                            },
+                            "2228": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 80,
+                                    "y": 8,
+                                    "w": 77,
+                                    "h": 47
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-11.11-35-00.11-40-00.bus.G475.avi"
+}

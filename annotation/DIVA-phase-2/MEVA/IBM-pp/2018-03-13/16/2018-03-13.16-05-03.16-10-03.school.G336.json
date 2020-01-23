@@ -1,0 +1,80 @@
+{
+    "activities": [
+        {
+            "activityID": 87,
+            "activity": "hand_interaction",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-13.16-05-03.16-10-03.school.G336.avi": {
+                    "1800": 1,
+                    "1805": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-13.16-05-03.16-10-03.school.G336.avi": {
+                            "1800": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 837,
+                                    "y": 280,
+                                    "w": 37,
+                                    "h": 34
+                                }
+                            },
+                            "1801": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 837,
+                                    "y": 280,
+                                    "w": 37,
+                                    "h": 34
+                                }
+                            },
+                            "1802": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 837,
+                                    "y": 279,
+                                    "w": 37,
+                                    "h": 34
+                                }
+                            },
+                            "1803": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 837,
+                                    "y": 279,
+                                    "w": 37,
+                                    "h": 34
+                                }
+                            },
+                            "1804": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 837,
+                                    "y": 278,
+                                    "w": 37,
+                                    "h": 35
+                                }
+                            },
+                            "1805": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 837,
+                                    "y": 278,
+                                    "w": 37,
+                                    "h": 35
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-13.16-05-03.16-10-03.school.G336.avi"
+}

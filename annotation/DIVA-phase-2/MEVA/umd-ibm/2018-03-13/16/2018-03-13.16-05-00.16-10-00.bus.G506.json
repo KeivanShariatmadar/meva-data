@@ -1,0 +1,115 @@
+{
+    "activities": [
+        {
+            "activityID": 3202,
+            "localization": {
+                "2018-03-13.16-05-00.16-10-00.bus.G506.avi": {
+                    "554": 1,
+                    "563": 0
+                }
+            },
+            "activity": "person_picks_up_object",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-13.16-05-00.16-10-00.bus.G506.avi": {
+                            "554": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1591,
+                                    "y": 12,
+                                    "w": 38,
+                                    "h": 50
+                                }
+                            },
+                            "555": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1590,
+                                    "y": 13,
+                                    "w": 48,
+                                    "h": 43
+                                }
+                            },
+                            "556": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1590,
+                                    "y": 15,
+                                    "w": 35,
+                                    "h": 36
+                                }
+                            },
+                            "557": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1596,
+                                    "y": 27,
+                                    "w": 30,
+                                    "h": 24
+                                }
+                            },
+                            "558": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1595,
+                                    "y": 18,
+                                    "w": 34,
+                                    "h": 39
+                                }
+                            },
+                            "559": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1585,
+                                    "y": 11,
+                                    "w": 43,
+                                    "h": 49
+                                }
+                            },
+                            "560": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1599,
+                                    "y": 10,
+                                    "w": 28,
+                                    "h": 48
+                                }
+                            },
+                            "561": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1595,
+                                    "y": 11,
+                                    "w": 34,
+                                    "h": 44
+                                }
+                            },
+                            "562": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1592,
+                                    "y": 10,
+                                    "w": 41,
+                                    "h": 48
+                                }
+                            },
+                            "563": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1592,
+                                    "y": 9,
+                                    "w": 39,
+                                    "h": 51
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-13.16-05-00.16-10-00.bus.G506.avi"
+}

@@ -1,0 +1,11 @@
+[{meta: 2018-03-13.16-05-00.16-10-00.bus.G475.avi}, {act: {act2: !!set {vehicle_stopping: null},
+      actors: [{id1: 0, timespan: [{tsr0: [8100, 8175]}]}], id2: 3655, timespan: [
+        {tsr0: [8100, 8175]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 1, timespan: [{tsr0: [8134, 8189]}]}], id2: 3656, timespan: [{tsr0: [
+            8134, 8189]}]}}, {act: {act2: !!set {person_exits_vehicle: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [8392, 8527]}]}], id2: 3657, timespan: [{tsr0: [
+            8392, 8527]}]}}, {act: {act2: !!set {vehicle_drops_off_person: null},
+      actors: [{id1: 3, timespan: [{tsr0: [8449, 8614]}]}], id2: 3658, timespan: [
+        {tsr0: [8449, 8614]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 4, timespan: [{tsr0: [8550, 8625]}]}], id2: 3659, timespan: [
+        {tsr0: [8550, 8625]}]}}]

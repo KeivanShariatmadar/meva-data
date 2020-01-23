@@ -1,0 +1,26 @@
+[{meta: 2018-03-09.10-25-00.10-30-00.school.G336.avi}, {act: {act2: !!set {person_opens_facility_door: null},
+      actors: [{id1: 0, timespan: [{tsr0: [6063, 6331]}]}], id2: 0, timespan: [{tsr0: [
+            6063, 6331]}]}}, {act: {act2: !!set {person_enters_vehicle: null}, actors: [
+        {id1: 1, timespan: [{tsr0: [6063, 6331]}]}], id2: 1, timespan: [{tsr0: [6063,
+            6331]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [6283, 6381]}]}], id2: 2, timespan: [{tsr0: [6283,
+            6381]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 3,
+          timespan: [{tsr0: [6433, 6521]}]}], id2: 3, timespan: [{tsr0: [6433, 6521]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 4, timespan: [{tsr0: [
+                6533, 6821]}]}], id2: 4, timespan: [{tsr0: [6533, 6821]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 5, timespan: [{tsr0: [
+                6503, 6531]}]}], id2: 5, timespan: [{tsr0: [6503, 6531]}]}}, {act: {
+      act2: !!set {vehicle_reversing: null}, actors: [{id1: 6, timespan: [{tsr0: [
+                6463, 6541]}]}], id2: 6, timespan: [{tsr0: [6463, 6541]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 7, timespan: [{tsr0: [
+                6533, 6821]}]}], id2: 7, timespan: [{tsr0: [6533, 6821]}]}}, {act: {
+      act2: !!set {person_opens_vehicle_door: null}, actors: [{id1: 8, timespan: [
+            {tsr0: [6276, 6313]}]}], id2: 8, timespan: [{tsr0: [6276, 6313]}]}}, {
+    act: {act2: !!set {person_enters_vehicle: null}, actors: [{id1: 9, timespan: [
+            {tsr0: [6320, 6351]}]}], id2: 9, timespan: [{tsr0: [6320, 6351]}]}}, {
+    act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 10, timespan: [{tsr0: [
+                6562, 6692]}]}], id2: 10, timespan: [{tsr0: [6562, 6692]}]}}, {act: {
+      act2: !!set {vehicle_u_turn: null}, actors: [{id1: 11, timespan: [{tsr0: [6692,
+                6800]}]}], id2: 11, timespan: [{tsr0: [6692, 6800]}]}}, {act: {act2: !!set {
+        vehicle_starting: null}, actors: [{id1: 14, timespan: [{tsr0: [6441, 6612]}]}],
+      id2: 14, timespan: [{tsr0: [6441, 6612]}]}}]

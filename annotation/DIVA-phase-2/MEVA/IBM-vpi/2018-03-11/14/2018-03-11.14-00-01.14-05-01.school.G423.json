@@ -1,0 +1,71 @@
+{
+    "activities": [
+        {
+            "activityID": 233,
+            "activity": "Transport_HeavyCarry",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-11.14-00-01.14-05-01.school.G423.avi": {
+                    "2191": 1,
+                    "2195": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-11.14-00-01.14-05-01.school.G423.avi": {
+                            "2191": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 879,
+                                    "y": 341,
+                                    "w": 163,
+                                    "h": 104
+                                }
+                            },
+                            "2192": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 879,
+                                    "y": 341,
+                                    "w": 163,
+                                    "h": 104
+                                }
+                            },
+                            "2193": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 879,
+                                    "y": 341,
+                                    "w": 163,
+                                    "h": 104
+                                }
+                            },
+                            "2194": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 879,
+                                    "y": 341,
+                                    "w": 163,
+                                    "h": 104
+                                }
+                            },
+                            "2195": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 879,
+                                    "y": 341,
+                                    "w": 163,
+                                    "h": 104
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-11.14-00-01.14-05-01.school.G423.avi"
+}

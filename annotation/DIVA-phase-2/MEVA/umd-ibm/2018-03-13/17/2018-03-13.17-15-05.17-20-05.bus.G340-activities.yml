@@ -1,0 +1,11 @@
+[{meta: 2018-03-13.17-15-05.17-20-05.bus.G340.avi}, {act: {act2: !!set {vehicle_turning_right: null},
+      actors: [{id1: 0, timespan: [{tsr0: [1365, 1455]}]}], id2: 6481, timespan: [
+        {tsr0: [1365, 1455]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 1, timespan: [{tsr0: [282, 372]}]}], id2: 6482, timespan: [{
+          tsr0: [282, 372]}]}}, {act: {act2: !!set {person_exits_vehicle: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [359, 404]}]}], id2: 6483, timespan: [{tsr0: [
+            359, 404]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 3, timespan: [{tsr0: [435, 485]}]}], id2: 6484, timespan: [{
+          tsr0: [435, 485]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 4, timespan: [{tsr0: [708, 858]}]}], id2: 6485, timespan: [{tsr0: [
+            708, 858]}]}}]
