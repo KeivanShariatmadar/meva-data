@@ -8,19 +8,19 @@ Each video clip (nominally five minutes in length) is named according to the pat
 
 > date.start-time.end-time.site.camera
 
-...for example, the file **2018-03-07.17-35-06.17-40-06.school.G339.types.yml** contains the KPF object type information for the clip **2018-03-07.17-35-06.17-40-06.school.G339**, which has the following parts:
+...for example, the file **2018-03-07.17-35-06.17-40-06.school.G339.types.yml** contains the KPF object type information for the clip **2018-03-07.17-35-06.17-40-06.school.G339**, which has the following components:
 
-* date: 2018-03-07
-* start-time: 17-35-06 *(local time)*
-* end-time: 17-40-06
-* site: school *(This is the where the camera was located, NOT necessarily what the camera is looking at)*
-* camera: G339
+* date: **2018-03-07**
+* start-time: **17-35-06** *(local time)*
+* end-time: **17-40-06**
+* site: **school** *(This is the where the camera was located, NOT necessarily what the camera is looking at)*
+* camera: **G339**
 
 ## How to contribute annotations
 
 We welcome your contributions, either as corrections to existing annotations or as additional annotations.
 
-**PLEASE NOTE** that any corrections or new annotations will be subject to the same 
+**PLEASE NOTE** that any corrections or new annotations will be subject to the same [license](../../../LICENSE) as this overall annotation repository.
 
 ### Submitting a correction
 
@@ -30,13 +30,13 @@ We welcome your contributions, either as corrections to existing annotations or 
 
 ### Submitting new annotations
 
-1. Fork this repo to your gitlab account
+1. Fork this repo to your gitlab account.
 
-2. Create a new branch from master to hold you annotations.
+2. Create a new branch from master for your annotations.
 
-2. Create a new directory [contrib](contrib)
+2. Create a new subdirectory in [contrib](contrib) to hold your annotaitons.
 
-3. Copy the [contribution template](contrib/template.md) to use as your readme; please fill out all the fields.
+3. Copy the [contribution template](contrib-template.md) to use as your readme; please fill out all the fields.
 
 4. Add your annotations to the subdirectory. Please use the KPF (preferred) or NIST json formats if possible; if not, please include documentation describing your annotation schema.
 
