@@ -1,7 +1,9 @@
 # MEVA-Data-Repo
 
-This git repository is the data distribution mechanism for MEVA Related
-annotations and documentation. See [mevadata.org](http://mevadata.org) for more information.
+This git repository is the data distribution mechanism for annotations
+and documentation related to the Multiview Extended Video with
+Activities (MEVA) dataset. For more information about MEVA, please see
+[mevadata.org](http://mevadata.org).
 
 * Installation
 
@@ -20,8 +22,9 @@ data, such as camera models.
 
 * Annotations
 
-The [annotation](annotation) directory contains annotations for the
-DIVA Phase 2 data; currently the only subdirectory is for the [Multiview Extended Video with Activities (MEVA) dataset](mevadata.org) dataset.
+The [annotation](annotation) directory contains annotations for Phase
+2 of the IARPA DIVA project; currently the only subdirectory is for
+the MEVA dataset.
 
 The community is encouraged to add annotations for the MEVA data;
 instructions are in the "Submitting new annotations" section of the [MEVA annotation README](annotation/DIVA-phase-2/MEVA/README.md).
