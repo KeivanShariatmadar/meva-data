@@ -10,6 +10,6 @@ This directory contains documentation for the MEVA dataset.
 
 * Activity names: In February 2020 the activity names were normalized:
 
-  * The [activity-names.txt](activity-names.txt) file lists the canonical activity names.
+  * The [activity-names.txt](activity-names.txt) file lists the canonical names for the 37 ActEV activities. Note that these names are case-sensitive.
 
-  * The [activity-name-mapping.csv](activity-name-mapping.csv) file is a comma-separated file mapping the canonical activity name to its "old" (pre-February 2020) name.
+  * The [activity-name-mapping.csv](activity-name-mapping.csv) file is a comma-separated file mapping "old" (pre-February 2020) names to their canonical equivalent. This file includes variations for capitalization.
