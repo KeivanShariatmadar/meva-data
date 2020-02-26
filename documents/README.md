@@ -8,8 +8,8 @@ This directory contains documentation for the MEVA dataset.
 
 * [The NIST json schemas](nist-json-for-actev) are derived from the KPF and are used by NIST for scoring in ActEV.
 
-* Activity names: In February 2020 the activity names were normalized.
+* Activity names: In February 2020 the activity names were normalized:
 
-** The [activity-names.txt](activity-names.txt) file lists the canonical activity names.
+  * The [activity-names.txt](activity-names.txt) file lists the canonical activity names.
 
-** The [activity-name-mapping.csv](activity-name-mapping.csv) file is a comma-separated file mapping the canonical activity name to its "old" (pre-February 2020) name.
+  * The [activity-name-mapping.csv](activity-name-mapping.csv) file is a comma-separated file mapping the canonical activity name to its "old" (pre-February 2020) name.
