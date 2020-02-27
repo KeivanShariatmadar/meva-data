@@ -13,6 +13,7 @@ These are NIST json files derived from the Kitware KPF, suitable for use with th
 * Scope: Evaluation
 * Number of clips annotated: 65
 * ActEV activities annotated: 37 ActEV activities (36 actually found)
+* ActEV namespace: old
 * Other activities / objects annotated: N/A
 * Format: NIST json
 * POC: diva-nist (at) nist.gov
