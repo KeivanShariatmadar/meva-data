@@ -1,0 +1,80 @@
+{
+    "activities": [
+        {
+            "activityID": 226,
+            "activity": "Transport_HeavyCarry",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-11.11-25-00.11-30-00.school.G330.avi": {
+                    "4056": 1,
+                    "4061": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-11.11-25-00.11-30-00.school.G330.avi": {
+                            "4056": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 337,
+                                    "y": 435,
+                                    "w": 60,
+                                    "h": 111
+                                }
+                            },
+                            "4057": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 337,
+                                    "y": 435,
+                                    "w": 60,
+                                    "h": 111
+                                }
+                            },
+                            "4058": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 337,
+                                    "y": 435,
+                                    "w": 60,
+                                    "h": 111
+                                }
+                            },
+                            "4059": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 337,
+                                    "y": 435,
+                                    "w": 60,
+                                    "h": 111
+                                }
+                            },
+                            "4060": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 337,
+                                    "y": 435,
+                                    "w": 60,
+                                    "h": 111
+                                }
+                            },
+                            "4061": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 337,
+                                    "y": 435,
+                                    "w": 60,
+                                    "h": 111
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-11.11-25-00.11-30-00.school.G330.avi"
+}

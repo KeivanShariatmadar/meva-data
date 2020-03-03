@@ -1,0 +1,153 @@
+{
+    "activities": [
+        {
+            "activityID": 3331,
+            "localization": {
+                "2018-03-13.17-15-01.17-20-01.admin.G329.avi": {
+                    "4361": 1,
+                    "4370": 0
+                }
+            },
+            "activity": "person_enters_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-13.17-15-01.17-20-01.admin.G329.avi": {
+                            "4361": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1498,
+                                    "y": 83,
+                                    "w": 246,
+                                    "h": 652
+                                }
+                            },
+                            "4362": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1447,
+                                    "y": 83,
+                                    "w": 272,
+                                    "h": 647
+                                }
+                            },
+                            "4363": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1489,
+                                    "y": 78,
+                                    "w": 220,
+                                    "h": 667
+                                }
+                            },
+                            "4364": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1437,
+                                    "y": 41,
+                                    "w": 254,
+                                    "h": 547
+                                }
+                            },
+                            "4365": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1437,
+                                    "y": 41,
+                                    "w": 254,
+                                    "h": 547
+                                }
+                            },
+                            "4366": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1437,
+                                    "y": 41,
+                                    "w": 254,
+                                    "h": 547
+                                }
+                            },
+                            "4367": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1437,
+                                    "y": 41,
+                                    "w": 254,
+                                    "h": 547
+                                }
+                            },
+                            "4368": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1437,
+                                    "y": 41,
+                                    "w": 254,
+                                    "h": 547
+                                }
+                            },
+                            "4369": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1416,
+                                    "y": 61,
+                                    "w": 300,
+                                    "h": 533
+                                }
+                            },
+                            "4370": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1437,
+                                    "y": 53,
+                                    "w": 253,
+                                    "h": 501
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "activityID": 3332,
+            "localization": {
+                "2018-03-13.17-15-01.17-20-01.admin.G329.avi": {
+                    "4366": 1,
+                    "4367": 0
+                }
+            },
+            "activity": "person_enters_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "1",
+                    "localization": {
+                        "2018-03-13.17-15-01.17-20-01.admin.G329.avi": {
+                            "4366": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1775,
+                                    "y": 593,
+                                    "w": 117,
+                                    "h": 445
+                                }
+                            },
+                            "4367": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1734,
+                                    "y": 594,
+                                    "w": 168,
+                                    "h": 460
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-13.17-15-01.17-20-01.admin.G329.avi"
+}

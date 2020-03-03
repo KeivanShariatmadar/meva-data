@@ -1,0 +1,52 @@
+{
+    "activities": [
+        {
+            "activityID": 4121,
+            "localization": {
+                "2018-03-15.14-50-00.14-55-00.school.G299.avi": {
+                    "8048": 1,
+                    "8050": 0
+                }
+            },
+            "activity": "person_exits_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 4121,
+                    "localization": {
+                        "2018-03-15.14-50-00.14-55-00.school.G299.avi": {
+                            "8048": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 0,
+                                    "y": 661,
+                                    "w": 197,
+                                    "h": 376
+                                }
+                            },
+                            "8049": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 0,
+                                    "y": 664,
+                                    "w": 194,
+                                    "h": 376
+                                }
+                            },
+                            "8050": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 0,
+                                    "y": 666,
+                                    "w": 192,
+                                    "h": 376
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-15.14-50-00.14-55-00.school.G299.avi"
+}

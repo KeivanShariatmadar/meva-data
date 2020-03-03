@@ -1,47 +1,35 @@
 # MEVA-Data-Repo
 
-This GIT Repo is the data distribution mechanism for MEVA Related
-annotations and documentation.  The repo presently consists of schemas
-for the activity annnotations.
+This git repository is the data distribution mechanism for annotations
+and documentation related to the Multiview Extended Video with
+Activities (MEVA) dataset. For more information about MEVA, please see
+[mevadata.org](http://mevadata.org).
 
-See [mevadata.org](http://mevadata.org) for more information.
+* Installation
 
-1.0 Installation
+This git repo requires no installation process.
 
-This GIT repo requires no installation process.
-
-2.0 Documentation
-
-2.1 Annotation File Formats
+* Documentation
 
 The [documents](documents) directory contains various documentation
-relating to the MEVA collection. In particular, the
-[documents/MEVA_Annotation_JSON.pdf](MEVA_Annotation_JSON.pdf)
-document describes the JSON file structure that is used to hold the
-activity annotations.  The file file index, activity index, and
-activities schemas are defined in ActEV19_File_Index_Schema_v01.json,
-ActEV19_Activity_Index_Schema_v01.json, and
-ActEV19_Activities_Schema_v01.json files of the 'documents/schemas'
-directory respectively. Each schema is accompanied by example(s) to
-demonstrate the file structures.
+relating to the MEVA collection, including activity definitions and
+annotation schemas.
 
-3. Annotations
-
-The [annotation](annotation) directory contains annotations for the MEVA Data.
-The directory contains a sub directory for each form of annotation
-provided in the repo.  Consult the [annotation
-README](annotation/README.txt) file for more information.
-
-The community is encouraged to add annotations for the MEVA data.  See
-the instructions on the [annotation README](annotation/README.txt)
-file for instructions.
-
-4. Metadata
+* Metadata
 
 The [metadata](metadata) directory contains metadata pertaining to the
 data, such as camera models.
 
-5. Contacts
+* Annotations
 
-If you have any questions, please add a comment to the GIT Repo.
+The [annotation](annotation) directory contains annotations for Phase
+2 of the IARPA DIVA project; currently the only subdirectory is for
+the MEVA dataset.
 
+The community is encouraged to add annotations for the MEVA data;
+instructions are in the "Submitting new annotations" section of the [MEVA annotation README](annotation/DIVA-phase-2/MEVA/README.md).
+
+* Contacts
+
+If you have any questions regarding the information in this repo,
+please email mevadata (at) kitware.com or file a gitlab issue.

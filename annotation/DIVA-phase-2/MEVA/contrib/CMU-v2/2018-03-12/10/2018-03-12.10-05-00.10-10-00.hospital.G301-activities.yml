@@ -1,0 +1,11 @@
+[{meta: 2018-03-12.10-05-00.10-10-00.hospital.G301.avi}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 2567, timespan: [{tsr0: [1019, 1158]}]}], id2: 2567, timespan: [
+        {tsr0: [1019, 1158]}]}}, {act: {act2: !!set {person_opens_facility_door: null},
+      actors: [{id1: 2568, timespan: [{tsr0: [1398, 1497]}]}], id2: 2568, timespan: [
+        {tsr0: [1398, 1497]}]}}, {act: {act2: !!set {person_enters_through_structure: null},
+      actors: [{id1: 2569, timespan: [{tsr0: [1478, 1577]}]}], id2: 2569, timespan: [
+        {tsr0: [1478, 1577]}]}}, {act: {act2: !!set {vehicle_drops_off_person: null},
+      actors: [{id1: 2570, timespan: [{tsr0: [419, 1118]}]}], id2: 2570, timespan: [
+        {tsr0: [419, 1118]}]}}, {act: {act2: !!set {person_exits_vehicle: null}, actors: [
+        {id1: 2571, timespan: [{tsr0: [949, 1168]}]}], id2: 2571, timespan: [{tsr0: [
+            949, 1168]}]}}]

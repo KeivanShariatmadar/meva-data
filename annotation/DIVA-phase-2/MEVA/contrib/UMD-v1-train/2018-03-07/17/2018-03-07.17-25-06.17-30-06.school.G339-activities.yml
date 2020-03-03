@@ -1,0 +1,138 @@
+[{meta: 2018-03-07.17-25-06.17-30-06.school.G339.avi}, {act: {act2: !!set {person_exits_through_structure: null},
+      actors: [{id1: 0, timespan: [{tsr0: [568, 796]}]}], id2: 0, timespan: [{tsr0: [
+            568, 796]}]}}, {act: {act2: !!set {person_exits_through_structure: null},
+      actors: [{id1: 1, timespan: [{tsr0: [846, 8998]}]}], id2: 1, timespan: [{tsr0: [
+            846, 8998]}]}}, {act: {act2: !!set {person_exits_through_structure: null},
+      actors: [{id1: 2, timespan: [{tsr0: [6997, 7185]}]}], id2: 2, timespan: [{tsr0: [
+            6997, 7185]}]}}, {act: {act2: !!set {person_enters_through_structure: null},
+      actors: [{id1: 3, timespan: [{tsr0: [1039, 2993]}]}], id2: 3, timespan: [{tsr0: [
+            1039, 2993]}]}}, {act: {act2: !!set {person_enters_through_structure: null},
+      actors: [{id1: 4, timespan: [{tsr0: [3073, 8420]}]}], id2: 4, timespan: [{tsr0: [
+            3073, 8420]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 5, timespan: [{tsr0: [226, 474]}]}], id2: 5, timespan: [{tsr0: [226,
+            474]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 6,
+          timespan: [{tsr0: [905, 8998]}]}], id2: 6, timespan: [{tsr0: [905, 8998]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 7, timespan: [{tsr0: [
+                2586, 3722]}]}], id2: 7, timespan: [{tsr0: [2586, 3722]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 8, timespan: [{tsr0: [
+                4264, 7421]}]}], id2: 8, timespan: [{tsr0: [4264, 7421]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 9, timespan: [{tsr0: [
+                3918, 8308]}]}], id2: 9, timespan: [{tsr0: [3918, 8308]}]}}, {act: {
+      act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 10, timespan: [
+            {tsr0: [1115, 1323]}]}], id2: 10, timespan: [{tsr0: [1115, 1323]}]}},
+  {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 11, timespan: [
+            {tsr0: [3049, 3517]}]}], id2: 11, timespan: [{tsr0: [3049, 3517]}]}},
+  {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 12, timespan: [
+            {tsr0: [7415, 7743]}]}], id2: 12, timespan: [{tsr0: [7415, 7743]}]}},
+  {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 13, timespan: [
+            {tsr0: [8326, 8994]}]}], id2: 13, timespan: [{tsr0: [8326, 8994]}]}},
+  {act: {act2: !!set {vehicle_picks_up_person: null}, actors: [{id1: 14, timespan: [
+            {tsr0: [1275, 3654]}]}], id2: 14, timespan: [{tsr0: [1275, 3654]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 15, timespan: [{tsr0: [
+                1697, 2145]}]}], id2: 15, timespan: [{tsr0: [1697, 2145]}]}}, {act: {
+      act2: !!set {person_picks_up_object: null}, actors: [{id1: 16, timespan: [{
+              tsr0: [4076, 4200]}]}], id2: 16, timespan: [{tsr0: [4076, 4200]}]}},
+  {act: {act2: !!set {person_picks_up_object: null}, actors: [{id1: 17, timespan: [
+            {tsr0: [4588, 4666]}]}], id2: 17, timespan: [{tsr0: [4588, 4666]}]}},
+  {act: {act2: !!set {person_picks_up_object: null}, actors: [{id1: 18, timespan: [
+            {tsr0: [4757, 4813]}]}], id2: 18, timespan: [{tsr0: [4757, 4813]}]}},
+  {act: {act2: !!set {person_sets_down_object: null}, actors: [{id1: 19, timespan: [
+            {tsr0: [4330, 4538]}]}], id2: 19, timespan: [{tsr0: [4330, 4538]}]}},
+  {act: {act2: !!set {person_sets_down_object: null}, actors: [{id1: 20, timespan: [
+            {tsr0: [4560, 4665]}]}], id2: 20, timespan: [{tsr0: [4560, 4665]}]}},
+  {act: {act2: !!set {person_sets_down_object: null}, actors: [{id1: 21, timespan: [
+            {tsr0: [4783, 4874]}]}], id2: 21, timespan: [{tsr0: [4783, 4874]}]}},
+  {act: {act2: !!set {person_sets_down_object: null}, actors: [{id1: 22, timespan: [
+            {tsr0: [4887, 4960]}]}], id2: 22, timespan: [{tsr0: [4887, 4960]}]}},
+  {act: {act2: !!set {object_transfer: null}, actors: [{id1: 23, timespan: [{tsr0: [
+                5150, 5316]}]}], id2: 23, timespan: [{tsr0: [5150, 5316]}]}}, {act: {
+      act2: !!set {person_opens_facility_door: null}, actors: [{id1: 24, timespan: [
+            {tsr0: [58, 8998]}]}], id2: 24, timespan: [{tsr0: [58, 8998]}]}}, {act: {
+      act2: !!set {person_opens_facility_door: null}, actors: [{id1: 25, timespan: [
+            {tsr0: [2286, 2339]}]}], id2: 25, timespan: [{tsr0: [2286, 2339]}]}},
+  {act: {act2: !!set {person_opens_facility_door: null}, actors: [{id1: 26, timespan: [
+            {tsr0: [2711, 2818]}]}], id2: 26, timespan: [{tsr0: [2711, 2818]}]}},
+  {act: {act2: !!set {person_opens_facility_door: null}, actors: [{id1: 27, timespan: [
+            {tsr0: [8319, 8367]}]}], id2: 27, timespan: [{tsr0: [8319, 8367]}]}},
+  {act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 29, timespan: [
+            {tsr0: [2290, 2429]}]}], id2: 29, timespan: [{tsr0: [2290, 2429]}]}},
+  {act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 30, timespan: [
+            {tsr0: [2728, 2863]}]}], id2: 30, timespan: [{tsr0: [2728, 2863]}]}},
+  {act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 31, timespan: [
+            {tsr0: [8308, 8400]}]}], id2: 31, timespan: [{tsr0: [8308, 8400]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 33, timespan: [
+            {tsr0: [1269, 1567]}]}], id2: 33, timespan: [{tsr0: [1269, 1567]}]}},
+  {act: {act2: !!set {person_opens_vehicle_door: null}, actors: [{id1: 34, timespan: [
+            {tsr0: [553, 605]}]}], id2: 34, timespan: [{tsr0: [553, 605]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 35, timespan: [{tsr0: [
+                2631, 2788]}]}], id2: 35, timespan: [{tsr0: [2631, 2788]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 36, timespan: [{tsr0: [
+                7184, 7388]}]}], id2: 36, timespan: [{tsr0: [7184, 7388]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 37, timespan: [{tsr0: [
+                8131, 8246]}]}], id2: 37, timespan: [{tsr0: [8131, 8246]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 38, timespan: [{tsr0: [
+                3379, 3476]}]}], id2: 38, timespan: [{tsr0: [3379, 3476]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 39, timespan: [{tsr0: [
+                7112, 7267]}]}], id2: 39, timespan: [{tsr0: [7112, 7267]}]}}, {act: {
+      act2: !!set {person_exits_vehicle: null}, actors: [{id1: 40, timespan: [{tsr0: [
+                8337, 8516]}]}], id2: 40, timespan: [{tsr0: [8337, 8516]}]}}, {act: {
+      act2: !!set {vehicle_turning_right: null}, actors: [{id1: 41, timespan: [{tsr0: [
+                301, 3139]}]}], id2: 41, timespan: [{tsr0: [301, 3139]}]}}, {act: {
+      act2: !!set {person_opens_vehicle_door: null}, actors: [{id1: 43, timespan: [
+            {tsr0: [528, 585]}]}], id2: 43, timespan: [{tsr0: [528, 585]}]}}, {act: {
+      act2: !!set {person_opens_vehicle_door: null}, actors: [{id1: 44, timespan: [
+            {tsr0: [8442, 8478]}]}], id2: 44, timespan: [{tsr0: [8442, 8478]}]}},
+  {act: {act2: !!set {person_picks_up_object: null}, actors: [{id1: 45, timespan: [
+            {tsr0: [3216, 3232]}]}], id2: 45, timespan: [{tsr0: [3216, 3232]}]}},
+  {act: {act2: !!set {person_picks_up_object: null}, actors: [{id1: 46, timespan: [
+            {tsr0: [4155, 4194]}]}], id2: 46, timespan: [{tsr0: [4155, 4194]}]}},
+  {act: {act2: !!set {person_closes_vehicle_door: null}, actors: [{id1: 47, timespan: [
+            {tsr0: [689, 731]}]}], id2: 47, timespan: [{tsr0: [689, 731]}]}}, {act: {
+      act2: !!set {person_opens_facility_door: null}, actors: [{id1: 51, timespan: [
+            {tsr0: [1175, 4389]}]}], id2: 51, timespan: [{tsr0: [1175, 4389]}]}},
+  {act: {act2: !!set {person_opens_facility_door: null}, actors: [{id1: 52, timespan: [
+            {tsr0: [2265, 4803]}]}], id2: 52, timespan: [{tsr0: [2265, 4803]}]}},
+  {act: {act2: !!set {person_opens_facility_door: null}, actors: [{id1: 53, timespan: [
+            {tsr0: [1095, 3002]}]}], id2: 53, timespan: [{tsr0: [1095, 3002]}]}},
+  {act: {act2: !!set {person_opens_facility_door: null}, actors: [{id1: 54, timespan: [
+            {tsr0: [4387, 4430]}]}], id2: 54, timespan: [{tsr0: [4387, 4430]}]}},
+  {act: {act2: !!set {person_opens_facility_door: null}, actors: [{id1: 55, timespan: [
+            {tsr0: [8268, 8337]}]}], id2: 55, timespan: [{tsr0: [8268, 8337]}]}},
+  {act: {act2: !!set {person_enters_through_structure: null}, actors: [{id1: 57, timespan: [
+            {tsr0: [103, 151]}]}], id2: 57, timespan: [{tsr0: [103, 151]}]}}, {act: {
+      act2: !!set {person_enters_through_structure: null}, actors: [{id1: 58, timespan: [
+            {tsr0: [2272, 2388]}]}], id2: 58, timespan: [{tsr0: [2272, 2388]}]}},
+  {act: {act2: !!set {person_enters_through_structure: null}, actors: [{id1: 59, timespan: [
+            {tsr0: [2713, 2846]}]}], id2: 59, timespan: [{tsr0: [2713, 2846]}]}},
+  {act: {act2: !!set {person_enters_through_structure: null}, actors: [{id1: 60, timespan: [
+            {tsr0: [4384, 4481]}]}], id2: 60, timespan: [{tsr0: [4384, 4481]}]}},
+  {act: {act2: !!set {person_enters_through_structure: null}, actors: [{id1: 61, timespan: [
+            {tsr0: [8266, 8423]}]}], id2: 61, timespan: [{tsr0: [8266, 8423]}]}},
+  {act: {act2: !!set {person_sets_down_object: null}, actors: [{id1: 62, timespan: [
+            {tsr0: [3796, 4025]}]}], id2: 62, timespan: [{tsr0: [3796, 4025]}]}},
+  {act: {act2: !!set {person_sets_down_object: null}, actors: [{id1: 63, timespan: [
+            {tsr0: [4545, 4617]}]}], id2: 63, timespan: [{tsr0: [4545, 4617]}]}},
+  {act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 65, timespan: [
+            {tsr0: [617, 4085]}]}], id2: 65, timespan: [{tsr0: [617, 4085]}]}}, {
+    act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 66, timespan: [
+            {tsr0: [929, 8998]}]}], id2: 66, timespan: [{tsr0: [929, 8998]}]}}, {
+    act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 67, timespan: [
+            {tsr0: [1179, 1248]}]}], id2: 67, timespan: [{tsr0: [1179, 1248]}]}},
+  {act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 68, timespan: [
+            {tsr0: [1246, 4522]}]}], id2: 68, timespan: [{tsr0: [1246, 4522]}]}},
+  {act: {act2: !!set {person_exits_through_structure: null}, actors: [{id1: 69, timespan: [
+            {tsr0: [7070, 7162]}]}], id2: 69, timespan: [{tsr0: [7070, 7162]}]}},
+  {act: {act2: !!set {vehicle_drops_off_person: null}, actors: [{id1: 70, timespan: [
+            {tsr0: [3210, 4634]}]}], id2: 70, timespan: [{tsr0: [3210, 4634]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 71, timespan: [{tsr0: [
+                1850, 4839]}]}], id2: 71, timespan: [{tsr0: [1850, 4839]}]}}, {act: {
+      act2: !!set {person_exits_vehicle: null}, actors: [{id1: 72, timespan: [{tsr0: [
+                8472, 8517]}]}], id2: 72, timespan: [{tsr0: [8472, 8517]}]}}, {act: {
+      act2: !!set {person_exits_vehicle: null}, actors: [{id1: 73, timespan: [{tsr0: [
+                8579, 8602]}]}], id2: 73, timespan: [{tsr0: [8579, 8602]}]}}, {act: {
+      act2: !!set {person_exits_vehicle: null}, actors: [{id1: 74, timespan: [{tsr0: [
+                8442, 8539]}]}], id2: 74, timespan: [{tsr0: [8442, 8539]}]}}, {act: {
+      act2: !!set {person_standing_up: null}, actors: [{id1: 75, timespan: [{tsr0: [
+                1310, 8407]}]}], id2: 75, timespan: [{tsr0: [1310, 8407]}]}}, {act: {
+      act2: !!set {person_person_embrace: null}, actors: [{id1: 76, timespan: [{tsr0: [
+                3837, 3870]}]}], id2: 76, timespan: [{tsr0: [3837, 3870]}]}}]

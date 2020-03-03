@@ -1,0 +1,128 @@
+{
+    "activities": [
+        {
+            "activityID": 84,
+            "activity": "person_loads_vehicle",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-12.11-10-02.11-15-02.school.G336.avi": {
+                    "1001": 1,
+                    "1007": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-12.11-10-02.11-15-02.school.G336.avi": {
+                            "1001": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 69,
+                                    "y": 843,
+                                    "w": 72,
+                                    "h": 149
+                                }
+                            },
+                            "1002": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 69,
+                                    "y": 843,
+                                    "w": 72,
+                                    "h": 149
+                                }
+                            },
+                            "1003": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 69,
+                                    "y": 843,
+                                    "w": 72,
+                                    "h": 149
+                                }
+                            },
+                            "1004": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 69,
+                                    "y": 843,
+                                    "w": 72,
+                                    "h": 149
+                                }
+                            },
+                            "1005": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 69,
+                                    "y": 843,
+                                    "w": 72,
+                                    "h": 149
+                                }
+                            },
+                            "1006": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 69,
+                                    "y": 843,
+                                    "w": 72,
+                                    "h": 149
+                                }
+                            },
+                            "1007": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 69,
+                                    "y": 843,
+                                    "w": 72,
+                                    "h": 149
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "activityID": 85,
+            "activity": "Closing_Trunk",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-12.11-10-02.11-15-02.school.G336.avi": {
+                    "1006": 1,
+                    "1007": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-12.11-10-02.11-15-02.school.G336.avi": {
+                            "1006": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 0,
+                                    "y": 835,
+                                    "w": 141,
+                                    "h": 182
+                                }
+                            },
+                            "1007": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 0,
+                                    "y": 835,
+                                    "w": 141,
+                                    "h": 182
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-12.11-10-02.11-15-02.school.G336.avi"
+}

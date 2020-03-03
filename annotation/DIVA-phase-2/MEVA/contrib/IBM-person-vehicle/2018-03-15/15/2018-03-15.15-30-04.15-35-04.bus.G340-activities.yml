@@ -1,0 +1,10 @@
+[{meta: 2018-03-15.15-30-04.15-35-04.bus.G340.avi}, {act: {act2: !!set {Open_Trunk: null},
+      actors: [{id1: 99, timespan: [{tsr0: [6304, 6712]}]}], id2: 293, timespan: [
+        {tsr0: [6304, 6712]}]}}, {act: {act2: !!set {Closing_Trunk: null}, actors: [
+        {id1: 99, timespan: [{tsr0: [6321, 6712]}]}], id2: 294, timespan: [{tsr0: [
+            6321, 6712]}]}}, {act: {act2: !!set {Unloading: null}, actors: [{id1: 99,
+          timespan: [{tsr0: [6321, 6712]}]}], id2: 295, timespan: [{tsr0: [6321, 6712]}]}},
+  {act: {act2: !!set {person_loads_vehicle: null}, actors: [{id1: 99, timespan: [
+            {tsr0: [6344, 6712]}]}], id2: 296, timespan: [{tsr0: [6344, 6712]}]}},
+  {act: {act2: !!set {Riding: null}, actors: [{id1: 99, timespan: [{tsr0: [6662, 6712]}]}],
+      id2: 297, timespan: [{tsr0: [6662, 6712]}]}}]

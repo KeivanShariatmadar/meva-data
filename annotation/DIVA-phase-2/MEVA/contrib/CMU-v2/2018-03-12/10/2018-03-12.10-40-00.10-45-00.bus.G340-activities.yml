@@ -1,0 +1,25 @@
+[{meta: 2018-03-12.10-40-00.10-45-00.bus.G340.avi}, {act: {act2: !!set {vehicle_stopping: null},
+      actors: [{id1: 8420, timespan: [{tsr0: [4820, 4999]}]}], id2: 8420, timespan: [
+        {tsr0: [4820, 4999]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 8421, timespan: [{tsr0: [4990, 5099]}]}], id2: 8421, timespan: [{tsr0: [
+            4990, 5099]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 8422, timespan: [{tsr0: [5230, 5419]}]}], id2: 8422, timespan: [{tsr0: [
+            5230, 5419]}]}}, {act: {act2: !!set {vehicle_turning_right: null}, actors: [
+        {id1: 8423, timespan: [{tsr0: [6400, 6599]}]}], id2: 8423, timespan: [{tsr0: [
+            6400, 6599]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 8424, timespan: [{tsr0: [6400, 6609]}]}], id2: 8424, timespan: [{tsr0: [
+            6400, 6609]}]}}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 8425, timespan: [{tsr0: [7130, 7219]}]}], id2: 8425, timespan: [
+        {tsr0: [7130, 7219]}]}}, {act: {act2: !!set {person_closes_vehicle_door: null},
+      actors: [{id1: 8426, timespan: [{tsr0: [7220, 7349]}]}], id2: 8426, timespan: [
+        {tsr0: [7220, 7349]}]}}, {act: {act2: !!set {person_exits_vehicle: null},
+      actors: [{id1: 8427, timespan: [{tsr0: [7130, 7429]}]}], id2: 8427, timespan: [
+        {tsr0: [7130, 7429]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 8428, timespan: [{tsr0: [6570, 7049]}]}], id2: 8428, timespan: [{tsr0: [
+            6570, 7049]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 8429, timespan: [{tsr0: [7050, 7169]}]}], id2: 8429, timespan: [{tsr0: [
+            7050, 7169]}]}}, {act: {act2: !!set {vehicle_stopping: null}, actors: [
+        {id1: 8430, timespan: [{tsr0: [6830, 7049]}]}], id2: 8430, timespan: [{tsr0: [
+            6830, 7049]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 8431, timespan: [{tsr0: [7150, 7389]}]}], id2: 8431, timespan: [{tsr0: [
+            7150, 7389]}]}}]

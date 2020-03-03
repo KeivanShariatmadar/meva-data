@@ -1,0 +1,195 @@
+[{meta: VIRAT_S_040001_01_000448_001101.avi}, {act: {act2: !!set {Riding: null}, actors: [
+        {id1: 3, timespan: [{tsr0: [13605, 14365]}]}], id2: 3, timespan: [{tsr0: [
+            13605, 14365]}]}}, {act: {act2: !!set {Open_Trunk: null}, actors: [{id1: 4,
+          timespan: [{tsr0: [6696, 6745]}]}], id2: 4, timespan: [{tsr0: [6696, 6745]}]}},
+  {act: {act2: !!set {Open_Trunk: null}, actors: [{id1: 5, timespan: [{tsr0: [18263,
+                18303]}]}], id2: 5, timespan: [{tsr0: [18263, 18303]}]}}, {act: {
+      act2: !!set {Open_Trunk: null}, actors: [{id1: 6, timespan: [{tsr0: [3321, 3346]}]}],
+      id2: 6, timespan: [{tsr0: [3321, 3346]}]}}, {act: {act2: !!set {Open_Trunk: null},
+      actors: [{id1: 7, timespan: [{tsr0: [15155, 15219]}]}], id2: 7, timespan: [
+        {tsr0: [15155, 15219]}]}}, {act: {act2: !!set {Open_Trunk: null}, actors: [
+        {id1: 8, timespan: [{tsr0: [12624, 12659]}]}], id2: 8, timespan: [{tsr0: [
+            12624, 12659]}]}}, {act: {act2: !!set {Closing_Trunk: null}, actors: [
+        {id1: 9, timespan: [{tsr0: [18509, 18560]}]}], id2: 9, timespan: [{tsr0: [
+            18509, 18560]}]}}, {act: {act2: !!set {Closing_Trunk: null}, actors: [
+        {id1: 10, timespan: [{tsr0: [3420, 3444]}]}], id2: 10, timespan: [{tsr0: [
+            3420, 3444]}]}}, {act: {act2: !!set {Closing_Trunk: null}, actors: [{
+          id1: 11, timespan: [{tsr0: [15283, 15312]}]}], id2: 11, timespan: [{tsr0: [
+            15283, 15312]}]}}, {act: {act2: !!set {Closing_Trunk: null}, actors: [
+        {id1: 12, timespan: [{tsr0: [12772, 12793]}]}], id2: 12, timespan: [{tsr0: [
+            12772, 12793]}]}}, {act: {act2: !!set {Unloading: null}, actors: [{id1: 16,
+          timespan: [{tsr0: [6780, 6887]}]}], id2: 16, timespan: [{tsr0: [6780, 6887]}]}},
+  {act: {act2: !!set {Unloading: null}, actors: [{id1: 17, timespan: [{tsr0: [15238,
+                15316]}]}], id2: 17, timespan: [{tsr0: [15238, 15316]}]}}, {act: {
+      act2: !!set {Transport_HeavyCarry: null}, actors: [{id1: 18, timespan: [{tsr0: [
+                3309, 3392]}]}], id2: 18, timespan: [{tsr0: [3309, 3392]}]}}, {act: {
+      act2: !!set {Transport_HeavyCarry: null}, actors: [{id1: 19, timespan: [{tsr0: [
+                6866, 6937]}]}], id2: 19, timespan: [{tsr0: [6866, 6937]}]}}, {act: {
+      act2: !!set {Transport_HeavyCarry: null}, actors: [{id1: 20, timespan: [{tsr0: [
+                15313, 15388]}]}], id2: 20, timespan: [{tsr0: [15313, 15388]}]}},
+  {act: {act2: !!set {Transport_HeavyCarry: null}, actors: [{id1: 21, timespan: [
+            {tsr0: [8398, 9010]}]}], id2: 21, timespan: [{tsr0: [8398, 9010]}]}},
+  {act: {act2: !!set {Transport_HeavyCarry: null}, actors: [{id1: 22, timespan: [
+            {tsr0: [12498, 12660]}]}], id2: 22, timespan: [{tsr0: [12498, 12660]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 125, timespan: [
+            {tsr0: [9092, 9112]}]}], id2: 125, timespan: [{tsr0: [9092, 9112]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 126, timespan: [
+            {tsr0: [11800, 11826]}]}], id2: 126, timespan: [{tsr0: [11800, 11826]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 127, timespan: [
+            {tsr0: [13191, 13254]}]}], id2: 127, timespan: [{tsr0: [13191, 13254]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 128, timespan: [
+            {tsr0: [9540, 9691]}]}], id2: 128, timespan: [{tsr0: [9540, 9691]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 129, timespan: [
+            {tsr0: [10026, 10307]}]}], id2: 129, timespan: [{tsr0: [10026, 10307]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 130, timespan: [
+            {tsr0: [10659, 10765]}]}], id2: 130, timespan: [{tsr0: [10659, 10765]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 131, timespan: [
+            {tsr0: [11039, 11083]}]}], id2: 131, timespan: [{tsr0: [11039, 11083]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 132, timespan: [
+            {tsr0: [17474, 17523]}]}], id2: 132, timespan: [{tsr0: [17474, 17523]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 133, timespan: [
+            {tsr0: [18945, 19003]}]}], id2: 133, timespan: [{tsr0: [18945, 19003]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 134, timespan: [
+            {tsr0: [14420, 14440]}]}], id2: 134, timespan: [{tsr0: [14420, 14440]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 135, timespan: [
+            {tsr0: [15671, 15773]}]}], id2: 135, timespan: [{tsr0: [15671, 15773]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 136, timespan: [
+            {tsr0: [2704, 2737]}]}], id2: 136, timespan: [{tsr0: [2704, 2737]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 137, timespan: [
+            {tsr0: [4388, 4447]}]}], id2: 137, timespan: [{tsr0: [4388, 4447]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 138, timespan: [
+            {tsr0: [470, 582]}]}], id2: 138, timespan: [{tsr0: [470, 582]}]}}, {act: {
+      act2: !!set {vehicle_turning_right: null}, actors: [{id1: 139, timespan: [{
+              tsr0: [933, 1027]}]}], id2: 139, timespan: [{tsr0: [933, 1027]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 140, timespan: [
+            {tsr0: [1362, 1423]}]}], id2: 140, timespan: [{tsr0: [1362, 1423]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 141, timespan: [
+            {tsr0: [5773, 5801]}]}], id2: 141, timespan: [{tsr0: [5773, 5801]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 142, timespan: [
+            {tsr0: [6127, 6444]}]}], id2: 142, timespan: [{tsr0: [6127, 6444]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 143, timespan: [
+            {tsr0: [7176, 7246]}]}], id2: 143, timespan: [{tsr0: [7176, 7246]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 144, timespan: [
+            {tsr0: [4080, 4114]}]}], id2: 144, timespan: [{tsr0: [4080, 4114]}]}},
+  {act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 145, timespan: [
+            {tsr0: [6779, 6840]}]}], id2: 145, timespan: [{tsr0: [6779, 6840]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 183, timespan: [{tsr0: [
+                9806, 9850]}]}], id2: 183, timespan: [{tsr0: [9806, 9850]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 184, timespan: [{tsr0: [
+                10421, 10476]}]}], id2: 184, timespan: [{tsr0: [10421, 10476]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 185, timespan: [{tsr0: [
+                18804, 18908]}]}], id2: 185, timespan: [{tsr0: [18804, 18908]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 186, timespan: [{tsr0: [
+                19212, 19233]}]}], id2: 186, timespan: [{tsr0: [19212, 19233]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 187, timespan: [{tsr0: [
+                13037, 13200]}]}], id2: 187, timespan: [{tsr0: [13037, 13200]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 188, timespan: [{tsr0: [
+                13479, 13648]}]}], id2: 188, timespan: [{tsr0: [13479, 13648]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 189, timespan: [{tsr0: [
+                9940, 10089]}]}], id2: 189, timespan: [{tsr0: [9940, 10089]}]}}, {
+    act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 190, timespan: [{tsr0: [
+                10215, 10291]}]}], id2: 190, timespan: [{tsr0: [10215, 10291]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 191, timespan: [{tsr0: [
+                7107, 7151]}]}], id2: 191, timespan: [{tsr0: [7107, 7151]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 192, timespan: [{tsr0: [
+                7620, 7666]}]}], id2: 192, timespan: [{tsr0: [7620, 7666]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 193, timespan: [{tsr0: [
+                815, 838]}]}], id2: 193, timespan: [{tsr0: [815, 838]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 194, timespan: [{tsr0: [
+                15556, 15669]}]}], id2: 194, timespan: [{tsr0: [15556, 15669]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 195, timespan: [{tsr0: [
+                3956, 4001]}]}], id2: 195, timespan: [{tsr0: [3956, 4001]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 196, timespan: [{tsr0: [
+                4340, 4386]}]}], id2: 196, timespan: [{tsr0: [4340, 4386]}]}}, {act: {
+      act2: !!set {vehicle_starting: null}, actors: [{id1: 197, timespan: [{tsr0: [
+                4700, 4821]}]}], id2: 197, timespan: [{tsr0: [4700, 4821]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 198, timespan: [{tsr0: [
+                4230, 4285]}]}], id2: 198, timespan: [{tsr0: [4230, 4285]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 199, timespan: [{tsr0: [
+                7083, 7098]}]}], id2: 199, timespan: [{tsr0: [7083, 7098]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 200, timespan: [{tsr0: [
+                5953, 5993]}]}], id2: 200, timespan: [{tsr0: [5953, 5993]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 201, timespan: [{tsr0: [
+                7651, 7666]}]}], id2: 201, timespan: [{tsr0: [7651, 7666]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 202, timespan: [{tsr0: [
+                2740, 2839]}]}], id2: 202, timespan: [{tsr0: [2740, 2839]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 203, timespan: [{tsr0: [
+                1068, 1158]}]}], id2: 203, timespan: [{tsr0: [1068, 1158]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 204, timespan: [{tsr0: [
+                1624, 1648]}]}], id2: 204, timespan: [{tsr0: [1624, 1648]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 205, timespan: [{tsr0: [
+                2940, 3016]}]}], id2: 205, timespan: [{tsr0: [2940, 3016]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 206, timespan: [{tsr0: [
+                4003, 4079]}]}], id2: 206, timespan: [{tsr0: [4003, 4079]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 207, timespan: [{tsr0: [
+                4130, 4211]}]}], id2: 207, timespan: [{tsr0: [4130, 4211]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 208, timespan: [{tsr0: [
+                4792, 4821]}]}], id2: 208, timespan: [{tsr0: [4792, 4821]}]}}, {act: {
+      act2: !!set {vehicle_turning_left: null}, actors: [{id1: 209, timespan: [{tsr0: [
+                14604, 14676]}]}], id2: 209, timespan: [{tsr0: [14604, 14676]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 210, timespan: [
+            {tsr0: [14760, 14909]}]}], id2: 210, timespan: [{tsr0: [14760, 14909]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 211, timespan: [
+            {tsr0: [16001, 16040]}]}], id2: 211, timespan: [{tsr0: [16001, 16040]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 212, timespan: [
+            {tsr0: [17693, 17776]}]}], id2: 212, timespan: [{tsr0: [17693, 17776]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 213, timespan: [
+            {tsr0: [17851, 17986]}]}], id2: 213, timespan: [{tsr0: [17851, 17986]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 214, timespan: [
+            {tsr0: [19212, 19259]}]}], id2: 214, timespan: [{tsr0: [19212, 19259]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 215, timespan: [
+            {tsr0: [10541, 10629]}]}], id2: 215, timespan: [{tsr0: [10541, 10629]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 216, timespan: [
+            {tsr0: [12037, 12117]}]}], id2: 216, timespan: [{tsr0: [12037, 12117]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 217, timespan: [
+            {tsr0: [12215, 12383]}]}], id2: 217, timespan: [{tsr0: [12215, 12383]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 218, timespan: [
+            {tsr0: [8516, 8552]}]}], id2: 218, timespan: [{tsr0: [8516, 8552]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 219, timespan: [
+            {tsr0: [8788, 8925]}]}], id2: 219, timespan: [{tsr0: [8788, 8925]}]}},
+  {act: {act2: !!set {vehicle_turning_left: null}, actors: [{id1: 220, timespan: [
+            {tsr0: [10207, 10325]}]}], id2: 220, timespan: [{tsr0: [10207, 10325]}]}},
+  {act: {act2: !!set {vehicle_u_turn: null}, actors: [{id1: 221, timespan: [{tsr0: [
+                14760, 14909]}]}], id2: 221, timespan: [{tsr0: [14760, 14909]}]}},
+  {act: {act2: !!set {vehicle_u_turn: null}, actors: [{id1: 222, timespan: [{tsr0: [
+                17846, 18099]}]}], id2: 222, timespan: [{tsr0: [17846, 18099]}]}},
+  {act: {act2: !!set {vehicle_u_turn: null}, actors: [{id1: 223, timespan: [{tsr0: [
+                6127, 6444]}]}], id2: 223, timespan: [{tsr0: [6127, 6444]}]}}, {act: {
+      act2: !!set {vehicle_u_turn: null}, actors: [{id1: 224, timespan: [{tsr0: [
+                12215, 12383]}]}], id2: 224, timespan: [{tsr0: [12215, 12383]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 225, timespan: [{tsr0: [
+                557, 640]}]}], id2: 225, timespan: [{tsr0: [557, 640]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 226, timespan: [{tsr0: [
+                1285, 1337]}]}], id2: 226, timespan: [{tsr0: [1285, 1337]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 227, timespan: [{tsr0: [
+                1553, 1605]}]}], id2: 227, timespan: [{tsr0: [1553, 1605]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 228, timespan: [{tsr0: [
+                14947, 14997]}]}], id2: 228, timespan: [{tsr0: [14947, 14997]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 229, timespan: [{tsr0: [
+                15883, 15999]}]}], id2: 229, timespan: [{tsr0: [15883, 15999]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 230, timespan: [{tsr0: [
+                3137, 3189]}]}], id2: 230, timespan: [{tsr0: [3137, 3189]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 231, timespan: [{tsr0: [
+                4294, 4338]}]}], id2: 231, timespan: [{tsr0: [4294, 4338]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 232, timespan: [{tsr0: [
+                4595, 4658]}]}], id2: 232, timespan: [{tsr0: [4595, 4658]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 233, timespan: [{tsr0: [
+                7000, 7081]}]}], id2: 233, timespan: [{tsr0: [7000, 7081]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 234, timespan: [{tsr0: [
+                6467, 6493]}]}], id2: 234, timespan: [{tsr0: [6467, 6493]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 235, timespan: [{tsr0: [
+                7461, 7485]}]}], id2: 235, timespan: [{tsr0: [7461, 7485]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 236, timespan: [{tsr0: [
+                9156, 9255]}]}], id2: 236, timespan: [{tsr0: [9156, 9255]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 237, timespan: [{tsr0: [
+                18054, 18098]}]}], id2: 237, timespan: [{tsr0: [18054, 18098]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 238, timespan: [{tsr0: [
+                19182, 19210]}]}], id2: 238, timespan: [{tsr0: [19182, 19210]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 239, timespan: [{tsr0: [
+                9640, 9691]}]}], id2: 239, timespan: [{tsr0: [9640, 9691]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 240, timespan: [{tsr0: [
+                9861, 9873]}]}], id2: 240, timespan: [{tsr0: [9861, 9873]}]}}, {act: {
+      act2: !!set {vehicle_stopping: null}, actors: [{id1: 241, timespan: [{tsr0: [
+                12440, 12481]}]}], id2: 241, timespan: [{tsr0: [12440, 12481]}]}},
+  {act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 242, timespan: [{tsr0: [
+                13379, 13434]}]}], id2: 242, timespan: [{tsr0: [13379, 13434]}]}}]

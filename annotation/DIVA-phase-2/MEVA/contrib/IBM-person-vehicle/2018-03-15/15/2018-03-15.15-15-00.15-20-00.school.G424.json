@@ -1,0 +1,45 @@
+{
+    "activities": [
+        {
+            "activityID": 278,
+            "activity": "Transport_HeavyCarry",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-15.15-15-00.15-20-00.school.G424.avi": {
+                    "0": 1,
+                    "96": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-15.15-15-00.15-20-00.school.G424.avi": {}
+                    }
+                }
+            ]
+        },
+        {
+            "activityID": 279,
+            "activity": "Unloading",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-15.15-15-00.15-20-00.school.G424.avi": {
+                    "77": 1,
+                    "96": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-15.15-15-00.15-20-00.school.G424.avi": {}
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-15.15-15-00.15-20-00.school.G424.avi"
+}

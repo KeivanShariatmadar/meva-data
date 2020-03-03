@@ -1,0 +1,124 @@
+{
+    "activities": [
+        {
+            "activityID": 4180,
+            "localization": {
+                "2018-03-13.17-20-00.17-25-00.bus.G505.avi": {
+                    "2905": 1,
+                    "2915": 0
+                }
+            },
+            "activity": "person_exits_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-13.17-20-00.17-25-00.bus.G505.avi": {
+                            "2905": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1503,
+                                    "y": 148,
+                                    "w": 38,
+                                    "h": 69
+                                }
+                            },
+                            "2906": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1498,
+                                    "y": 148,
+                                    "w": 36,
+                                    "h": 61
+                                }
+                            },
+                            "2907": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1498,
+                                    "y": 148,
+                                    "w": 36,
+                                    "h": 61
+                                }
+                            },
+                            "2908": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1498,
+                                    "y": 148,
+                                    "w": 36,
+                                    "h": 61
+                                }
+                            },
+                            "2909": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1498,
+                                    "y": 148,
+                                    "w": 36,
+                                    "h": 61
+                                }
+                            },
+                            "2910": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1498,
+                                    "y": 148,
+                                    "w": 36,
+                                    "h": 61
+                                }
+                            },
+                            "2911": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1492,
+                                    "y": 146,
+                                    "w": 40,
+                                    "h": 65
+                                }
+                            },
+                            "2912": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1492,
+                                    "y": 146,
+                                    "w": 40,
+                                    "h": 65
+                                }
+                            },
+                            "2913": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1492,
+                                    "y": 146,
+                                    "w": 40,
+                                    "h": 65
+                                }
+                            },
+                            "2914": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1492,
+                                    "y": 146,
+                                    "w": 40,
+                                    "h": 65
+                                }
+                            },
+                            "2915": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1492,
+                                    "y": 146,
+                                    "w": 40,
+                                    "h": 65
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-13.17-20-00.17-25-00.bus.G505.avi"
+}

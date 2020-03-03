@@ -1,0 +1,26 @@
+[{meta: 2018-03-11.11-55-08.12-00-08.hospital.G436.avi}, {act: {act2: !!set {vehicle_turning_right: null},
+      actors: [{id1: 5204, timespan: [{tsr0: [1040, 1519]}]}], id2: 5204, timespan: [
+        {tsr0: [1040, 1519]}]}}, {act: {act2: !!set {vehicle_u_turn: null}, actors: [
+        {id1: 5205, timespan: [{tsr0: [2220, 2969]}]}], id2: 5205, timespan: [{tsr0: [
+            2220, 2969]}]}}, {act: {act2: !!set {Talking: null}, actors: [{id1: 5206,
+          timespan: [{tsr0: [0, 2244]}]}], id2: 5206, timespan: [{tsr0: [0, 2244]}]}},
+  {act: {act2: !!set {person_opens_vehicle_door: null}, actors: [{id1: 5207, timespan: [
+            {tsr0: [5602, 5891]}]}], id2: 5207, timespan: [{tsr0: [5602, 5891]}]}},
+  {act: {act2: !!set {person_closes_vehicle_door: null}, actors: [{id1: 5208, timespan: [
+            {tsr0: [5892, 6151]}]}], id2: 5208, timespan: [{tsr0: [5892, 6151]}]}},
+  {act: {act2: !!set {person_enters_vehicle: null}, actors: [{id1: 5209, timespan: [
+            {tsr0: [5602, 6461]}]}], id2: 5209, timespan: [{tsr0: [5602, 6461]}]}},
+  {act: {act2: !!set {person_opens_vehicle_door: null}, actors: [{id1: 5210, timespan: [
+            {tsr0: [6202, 6391]}]}], id2: 5210, timespan: [{tsr0: [6202, 6391]}]}},
+  {act: {act2: !!set {person_closes_vehicle_door: null}, actors: [{id1: 5211, timespan: [
+            {tsr0: [6342, 6531]}]}], id2: 5211, timespan: [{tsr0: [6342, 6531]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 5212, timespan: [{tsr0: [
+                6562, 6771]}]}], id2: 5212, timespan: [{tsr0: [6562, 6771]}]}}, {
+    act: {act2: !!set {vehicle_stopping: null}, actors: [{id1: 5213, timespan: [{
+              tsr0: [6692, 6801]}]}], id2: 5213, timespan: [{tsr0: [6692, 6801]}]}},
+  {act: {act2: !!set {vehicle_reversing: null}, actors: [{id1: 5214, timespan: [{
+              tsr0: [6562, 6801]}]}], id2: 5214, timespan: [{tsr0: [6562, 6801]}]}},
+  {act: {act2: !!set {vehicle_starting: null}, actors: [{id1: 5215, timespan: [{tsr0: [
+                6832, 7151]}]}], id2: 5215, timespan: [{tsr0: [6832, 7151]}]}}, {
+    act: {act2: !!set {vehicle_turning_right: null}, actors: [{id1: 5216, timespan: [
+            {tsr0: [6832, 7151]}]}], id2: 5216, timespan: [{tsr0: [6832, 7151]}]}}]

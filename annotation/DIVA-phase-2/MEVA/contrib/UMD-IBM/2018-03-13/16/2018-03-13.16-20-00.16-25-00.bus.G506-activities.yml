@@ -1,0 +1,15 @@
+[{meta: 2018-03-13.16-20-00.16-25-00.bus.G506.avi}, {act: {act2: !!set {person_opens_vehicle_door: null},
+      actors: [{id1: 0, timespan: [{tsr0: [5080, 5140]}]}], id2: 5450, timespan: [
+        {tsr0: [5080, 5140]}]}}, {act: {act2: !!set {person_enters_vehicle: null},
+      actors: [{id1: 1, timespan: [{tsr0: [6283, 6388]}]}], id2: 5451, timespan: [
+        {tsr0: [6283, 6388]}]}}, {act: {act2: !!set {vehicle_reversing: null}, actors: [
+        {id1: 2, timespan: [{tsr0: [6940, 7030]}]}], id2: 5452, timespan: [{tsr0: [
+            6940, 7030]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 3, timespan: [{tsr0: [7319, 7484]}]}], id2: 5453, timespan: [{tsr0: [
+            7319, 7484]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 4, timespan: [{tsr0: [740, 875]}]}], id2: 5454, timespan: [{tsr0: [
+            740, 875]}]}}, {act: {act2: !!set {vehicle_starting: null}, actors: [
+        {id1: 5, timespan: [{tsr0: [8186, 8251]}]}], id2: 5455, timespan: [{tsr0: [
+            8186, 8251]}]}}, {act: {act2: !!set {vehicle_turning_left: null}, actors: [
+        {id1: 6, timespan: [{tsr0: [8480, 8545]}]}], id2: 5456, timespan: [{tsr0: [
+            8480, 8545]}]}}]

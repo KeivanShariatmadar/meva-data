@@ -1,0 +1,89 @@
+{
+    "activities": [
+        {
+            "activityID": 160,
+            "activity": "Riding",
+            "presenceConf": 1,
+            "localization": {
+                "2018-03-15.15-15-03.15-20-03.school.G300.avi": {
+                    "48": 1,
+                    "220": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": 99,
+                    "localization": {
+                        "2018-03-15.15-15-03.15-20-03.school.G300.avi": {
+                            "214": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1832,
+                                    "y": 486,
+                                    "w": 84,
+                                    "h": 85
+                                }
+                            },
+                            "215": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1811,
+                                    "y": 479,
+                                    "w": 105,
+                                    "h": 92
+                                }
+                            },
+                            "216": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1903,
+                                    "y": 519,
+                                    "w": 17,
+                                    "h": 54
+                                }
+                            },
+                            "217": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1893,
+                                    "y": 519,
+                                    "w": 27,
+                                    "h": 54
+                                }
+                            },
+                            "218": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1881,
+                                    "y": 519,
+                                    "w": 39,
+                                    "h": 54
+                                }
+                            },
+                            "219": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1861,
+                                    "y": 509,
+                                    "w": 59,
+                                    "h": 64
+                                }
+                            },
+                            "220": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1847,
+                                    "y": 494,
+                                    "w": 69,
+                                    "h": 77
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-15.15-15-03.15-20-03.school.G300.avi"
+}

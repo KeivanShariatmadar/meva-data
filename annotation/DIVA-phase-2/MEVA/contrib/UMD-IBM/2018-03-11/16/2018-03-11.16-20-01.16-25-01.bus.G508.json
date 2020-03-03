@@ -1,0 +1,124 @@
+{
+    "activities": [
+        {
+            "activityID": 72,
+            "localization": {
+                "2018-03-11.16-20-01.16-25-01.bus.G508.avi": {
+                    "2684": 1,
+                    "2694": 0
+                }
+            },
+            "activity": "person_enters_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-11.16-20-01.16-25-01.bus.G508.avi": {
+                            "2684": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 123,
+                                    "y": 289,
+                                    "w": 84,
+                                    "h": 148
+                                }
+                            },
+                            "2685": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 127,
+                                    "y": 299,
+                                    "w": 76,
+                                    "h": 151
+                                }
+                            },
+                            "2686": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 127,
+                                    "y": 299,
+                                    "w": 76,
+                                    "h": 151
+                                }
+                            },
+                            "2687": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 127,
+                                    "y": 299,
+                                    "w": 76,
+                                    "h": 151
+                                }
+                            },
+                            "2688": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 127,
+                                    "y": 299,
+                                    "w": 76,
+                                    "h": 151
+                                }
+                            },
+                            "2689": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 127,
+                                    "y": 299,
+                                    "w": 76,
+                                    "h": 151
+                                }
+                            },
+                            "2690": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 115,
+                                    "y": 310,
+                                    "w": 104,
+                                    "h": 149
+                                }
+                            },
+                            "2691": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 115,
+                                    "y": 310,
+                                    "w": 104,
+                                    "h": 149
+                                }
+                            },
+                            "2692": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 115,
+                                    "y": 310,
+                                    "w": 104,
+                                    "h": 149
+                                }
+                            },
+                            "2693": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 115,
+                                    "y": 310,
+                                    "w": 104,
+                                    "h": 149
+                                }
+                            },
+                            "2694": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 115,
+                                    "y": 310,
+                                    "w": 104,
+                                    "h": 149
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-11.16-20-01.16-25-01.bus.G508.avi"
+}

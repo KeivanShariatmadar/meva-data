@@ -1,0 +1,133 @@
+{
+    "activities": [
+        {
+            "activityID": 571,
+            "localization": {
+                "2018-03-11.11-50-00.11-55-00.school.G474.avi": {
+                    "8283": 1,
+                    "8294": 0
+                }
+            },
+            "activity": "person_enters_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-11.11-50-00.11-55-00.school.G474.avi": {
+                            "8283": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 8,
+                                    "y": 138,
+                                    "w": 18,
+                                    "h": 43
+                                }
+                            },
+                            "8284": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 6,
+                                    "y": 140,
+                                    "w": 24,
+                                    "h": 39
+                                }
+                            },
+                            "8285": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 9,
+                                    "y": 141,
+                                    "w": 21,
+                                    "h": 37
+                                }
+                            },
+                            "8286": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 5,
+                                    "y": 121,
+                                    "w": 38,
+                                    "h": 92
+                                }
+                            },
+                            "8287": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 12,
+                                    "y": 143,
+                                    "w": 19,
+                                    "h": 36
+                                }
+                            },
+                            "8288": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 11,
+                                    "y": 139,
+                                    "w": 21,
+                                    "h": 41
+                                }
+                            },
+                            "8289": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 12,
+                                    "y": 141,
+                                    "w": 22,
+                                    "h": 39
+                                }
+                            },
+                            "8290": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 12,
+                                    "y": 142,
+                                    "w": 21,
+                                    "h": 36
+                                }
+                            },
+                            "8291": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 14,
+                                    "y": 139,
+                                    "w": 21,
+                                    "h": 38
+                                }
+                            },
+                            "8292": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 14,
+                                    "y": 139,
+                                    "w": 21,
+                                    "h": 38
+                                }
+                            },
+                            "8293": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 15,
+                                    "y": 139,
+                                    "w": 20,
+                                    "h": 41
+                                }
+                            },
+                            "8294": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 16,
+                                    "y": 142,
+                                    "w": 20,
+                                    "h": 36
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-11.11-50-00.11-55-00.school.G474.avi"
+}

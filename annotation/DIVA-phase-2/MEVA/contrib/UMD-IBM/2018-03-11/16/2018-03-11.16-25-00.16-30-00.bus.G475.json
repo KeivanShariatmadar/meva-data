@@ -1,0 +1,33 @@
+{
+    "activities": [
+        {
+            "activityID": 969,
+            "localization": {
+                "2018-03-11.16-25-00.16-30-00.bus.G475.avi": {
+                    "4445": 0
+                }
+            },
+            "activity": "vehicle_starting",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-11.16-25-00.16-30-00.bus.G475.avi": {
+                            "4445": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 118,
+                                    "y": 14,
+                                    "w": 17,
+                                    "h": 12
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-11.16-25-00.16-30-00.bus.G475.avi"
+}

@@ -1,0 +1,198 @@
+{
+    "activities": [
+        {
+            "activityID": 4747,
+            "localization": {
+                "2018-03-13.16-00-00.16-05-00.bus.G475.avi": {
+                    "5289": 1,
+                    "5299": 0
+                }
+            },
+            "activity": "person_enters_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "0",
+                    "localization": {
+                        "2018-03-13.16-00-00.16-05-00.bus.G475.avi": {
+                            "5289": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 256,
+                                    "y": 130,
+                                    "w": 81,
+                                    "h": 82
+                                }
+                            },
+                            "5290": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 134,
+                                    "w": 60,
+                                    "h": 62
+                                }
+                            },
+                            "5291": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 134,
+                                    "w": 60,
+                                    "h": 62
+                                }
+                            },
+                            "5292": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 134,
+                                    "w": 60,
+                                    "h": 62
+                                }
+                            },
+                            "5293": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 134,
+                                    "w": 60,
+                                    "h": 62
+                                }
+                            },
+                            "5294": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 134,
+                                    "w": 60,
+                                    "h": 62
+                                }
+                            },
+                            "5295": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 128,
+                                    "w": 67,
+                                    "h": 74
+                                }
+                            },
+                            "5296": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 128,
+                                    "w": 67,
+                                    "h": 74
+                                }
+                            },
+                            "5297": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 128,
+                                    "w": 67,
+                                    "h": 74
+                                }
+                            },
+                            "5298": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 128,
+                                    "w": 67,
+                                    "h": 74
+                                }
+                            },
+                            "5299": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 277,
+                                    "y": 128,
+                                    "w": 67,
+                                    "h": 74
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "activityID": 4748,
+            "localization": {
+                "2018-03-13.16-00-00.16-05-00.bus.G475.avi": {
+                    "5416": 1,
+                    "5421": 0
+                }
+            },
+            "activity": "person_exits_through_structure",
+            "objects": [
+                {
+                    "objectType": "Person",
+                    "objectID": "1",
+                    "localization": {
+                        "2018-03-13.16-00-00.16-05-00.bus.G475.avi": {
+                            "5416": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 234,
+                                    "y": 104,
+                                    "w": 54,
+                                    "h": 54
+                                }
+                            },
+                            "5417": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 252,
+                                    "y": 118,
+                                    "w": 42,
+                                    "h": 41
+                                }
+                            },
+                            "5418": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 223,
+                                    "y": 100,
+                                    "w": 83,
+                                    "h": 64
+                                }
+                            },
+                            "5419": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 230,
+                                    "y": 104,
+                                    "w": 67,
+                                    "h": 68
+                                }
+                            },
+                            "5420": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 240,
+                                    "y": 109,
+                                    "w": 53,
+                                    "h": 48
+                                }
+                            },
+                            "5421": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 246,
+                                    "y": 117,
+                                    "w": 41,
+                                    "h": 34
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "2018-03-13.16-00-00.16-05-00.bus.G475.avi"
+}

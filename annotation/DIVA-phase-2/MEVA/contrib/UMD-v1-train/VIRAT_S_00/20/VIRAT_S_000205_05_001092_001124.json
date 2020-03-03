@@ -1,0 +1,2668 @@
+{
+    "activities": [
+        {
+            "activity": "vehicle_turning_right",
+            "activityID": 13,
+            "localization": {
+                "VIRAT_S_000205_05_001092_001124.avi": {
+                    "865": 1,
+                    "957": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Null",
+                    "objectID": 13,
+                    "localization": {
+                        "VIRAT_S_000205_05_001092_001124.avi": {
+                            "865": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1118,
+                                    "y": 709,
+                                    "w": 112,
+                                    "h": 9
+                                }
+                            },
+                            "866": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1101,
+                                    "y": 707,
+                                    "w": 128,
+                                    "h": 12
+                                }
+                            },
+                            "867": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1082,
+                                    "y": 703,
+                                    "w": 147,
+                                    "h": 16
+                                }
+                            },
+                            "868": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1079,
+                                    "y": 702,
+                                    "w": 148,
+                                    "h": 16
+                                }
+                            },
+                            "869": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1075,
+                                    "y": 701,
+                                    "w": 150,
+                                    "h": 18
+                                }
+                            },
+                            "870": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1072,
+                                    "y": 699,
+                                    "w": 151,
+                                    "h": 20
+                                }
+                            },
+                            "871": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1068,
+                                    "y": 698,
+                                    "w": 153,
+                                    "h": 21
+                                }
+                            },
+                            "872": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1064,
+                                    "y": 696,
+                                    "w": 155,
+                                    "h": 22
+                                }
+                            },
+                            "873": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1060,
+                                    "y": 694,
+                                    "w": 158,
+                                    "h": 25
+                                }
+                            },
+                            "874": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1059,
+                                    "y": 693,
+                                    "w": 157,
+                                    "h": 25
+                                }
+                            },
+                            "875": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1057,
+                                    "y": 692,
+                                    "w": 158,
+                                    "h": 27
+                                }
+                            },
+                            "876": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1055,
+                                    "y": 690,
+                                    "w": 159,
+                                    "h": 28
+                                }
+                            },
+                            "877": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1053,
+                                    "y": 689,
+                                    "w": 160,
+                                    "h": 30
+                                }
+                            },
+                            "878": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1052,
+                                    "y": 688,
+                                    "w": 159,
+                                    "h": 30
+                                }
+                            },
+                            "879": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1050,
+                                    "y": 686,
+                                    "w": 160,
+                                    "h": 32
+                                }
+                            },
+                            "880": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1048,
+                                    "y": 685,
+                                    "w": 161,
+                                    "h": 34
+                                }
+                            },
+                            "881": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1046,
+                                    "y": 683,
+                                    "w": 162,
+                                    "h": 36
+                                }
+                            },
+                            "882": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1045,
+                                    "y": 682,
+                                    "w": 161,
+                                    "h": 37
+                                }
+                            },
+                            "883": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1043,
+                                    "y": 681,
+                                    "w": 162,
+                                    "h": 37
+                                }
+                            },
+                            "884": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1041,
+                                    "y": 679,
+                                    "w": 163,
+                                    "h": 40
+                                }
+                            },
+                            "885": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1039,
+                                    "y": 678,
+                                    "w": 164,
+                                    "h": 41
+                                }
+                            },
+                            "886": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1038,
+                                    "y": 677,
+                                    "w": 164,
+                                    "h": 42
+                                }
+                            },
+                            "887": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1036,
+                                    "y": 676,
+                                    "w": 164,
+                                    "h": 43
+                                }
+                            },
+                            "888": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1035,
+                                    "y": 674,
+                                    "w": 163,
+                                    "h": 44
+                                }
+                            },
+                            "889": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1034,
+                                    "y": 674,
+                                    "w": 163,
+                                    "h": 45
+                                }
+                            },
+                            "890": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1032,
+                                    "y": 672,
+                                    "w": 163,
+                                    "h": 46
+                                }
+                            },
+                            "891": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1031,
+                                    "y": 671,
+                                    "w": 163,
+                                    "h": 47
+                                }
+                            },
+                            "892": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1030,
+                                    "y": 670,
+                                    "w": 162,
+                                    "h": 48
+                                }
+                            },
+                            "893": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1029,
+                                    "y": 669,
+                                    "w": 161,
+                                    "h": 49
+                                }
+                            },
+                            "894": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1027,
+                                    "y": 668,
+                                    "w": 162,
+                                    "h": 50
+                                }
+                            },
+                            "895": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1026,
+                                    "y": 667,
+                                    "w": 161,
+                                    "h": 51
+                                }
+                            },
+                            "896": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1025,
+                                    "y": 666,
+                                    "w": 161,
+                                    "h": 52
+                                }
+                            },
+                            "897": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1024,
+                                    "y": 665,
+                                    "w": 160,
+                                    "h": 53
+                                }
+                            },
+                            "898": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1023,
+                                    "y": 664,
+                                    "w": 159,
+                                    "h": 54
+                                }
+                            },
+                            "899": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1022,
+                                    "y": 663,
+                                    "w": 158,
+                                    "h": 55
+                                }
+                            },
+                            "900": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1021,
+                                    "y": 662,
+                                    "w": 156,
+                                    "h": 56
+                                }
+                            },
+                            "901": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1020,
+                                    "y": 661,
+                                    "w": 155,
+                                    "h": 57
+                                }
+                            },
+                            "902": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1020,
+                                    "y": 660,
+                                    "w": 152,
+                                    "h": 58
+                                }
+                            },
+                            "903": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1019,
+                                    "y": 658,
+                                    "w": 151,
+                                    "h": 60
+                                }
+                            },
+                            "904": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1018,
+                                    "y": 657,
+                                    "w": 149,
+                                    "h": 61
+                                }
+                            },
+                            "905": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1018,
+                                    "y": 656,
+                                    "w": 147,
+                                    "h": 62
+                                }
+                            },
+                            "906": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1017,
+                                    "y": 655,
+                                    "w": 145,
+                                    "h": 64
+                                }
+                            },
+                            "907": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 653,
+                                    "w": 143,
+                                    "h": 66
+                                }
+                            },
+                            "908": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 652,
+                                    "w": 140,
+                                    "h": 66
+                                }
+                            },
+                            "909": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 651,
+                                    "w": 137,
+                                    "h": 67
+                                }
+                            },
+                            "910": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 649,
+                                    "w": 134,
+                                    "h": 69
+                                }
+                            },
+                            "911": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 648,
+                                    "w": 132,
+                                    "h": 71
+                                }
+                            },
+                            "912": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 646,
+                                    "w": 128,
+                                    "h": 72
+                                }
+                            },
+                            "913": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 645,
+                                    "w": 125,
+                                    "h": 73
+                                }
+                            },
+                            "914": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1015,
+                                    "y": 643,
+                                    "w": 124,
+                                    "h": 76
+                                }
+                            },
+                            "915": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1013,
+                                    "y": 635,
+                                    "w": 117,
+                                    "h": 80
+                                }
+                            },
+                            "916": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1014,
+                                    "y": 634,
+                                    "w": 114,
+                                    "h": 79
+                                }
+                            },
+                            "917": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1014,
+                                    "y": 633,
+                                    "w": 113,
+                                    "h": 79
+                                }
+                            },
+                            "918": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1015,
+                                    "y": 632,
+                                    "w": 110,
+                                    "h": 78
+                                }
+                            },
+                            "919": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1015,
+                                    "y": 631,
+                                    "w": 109,
+                                    "h": 78
+                                }
+                            },
+                            "920": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1015,
+                                    "y": 630,
+                                    "w": 108,
+                                    "h": 78
+                                }
+                            },
+                            "921": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 628,
+                                    "w": 105,
+                                    "h": 78
+                                }
+                            },
+                            "922": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 627,
+                                    "w": 104,
+                                    "h": 78
+                                }
+                            },
+                            "923": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1016,
+                                    "y": 626,
+                                    "w": 103,
+                                    "h": 78
+                                }
+                            },
+                            "924": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1017,
+                                    "y": 625,
+                                    "w": 100,
+                                    "h": 77
+                                }
+                            },
+                            "925": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1017,
+                                    "y": 624,
+                                    "w": 99,
+                                    "h": 77
+                                }
+                            },
+                            "926": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1017,
+                                    "y": 622,
+                                    "w": 98,
+                                    "h": 78
+                                }
+                            },
+                            "927": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1018,
+                                    "y": 621,
+                                    "w": 95,
+                                    "h": 77
+                                }
+                            },
+                            "928": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1018,
+                                    "y": 620,
+                                    "w": 94,
+                                    "h": 77
+                                }
+                            },
+                            "929": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1018,
+                                    "y": 619,
+                                    "w": 93,
+                                    "h": 77
+                                }
+                            },
+                            "930": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1019,
+                                    "y": 618,
+                                    "w": 90,
+                                    "h": 76
+                                }
+                            },
+                            "931": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1019,
+                                    "y": 616,
+                                    "w": 89,
+                                    "h": 77
+                                }
+                            },
+                            "932": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1019,
+                                    "y": 615,
+                                    "w": 88,
+                                    "h": 77
+                                }
+                            },
+                            "933": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1020,
+                                    "y": 614,
+                                    "w": 85,
+                                    "h": 76
+                                }
+                            },
+                            "934": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1020,
+                                    "y": 613,
+                                    "w": 84,
+                                    "h": 76
+                                }
+                            },
+                            "935": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1020,
+                                    "y": 611,
+                                    "w": 83,
+                                    "h": 77
+                                }
+                            },
+                            "936": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1021,
+                                    "y": 610,
+                                    "w": 82,
+                                    "h": 76
+                                }
+                            },
+                            "937": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1022,
+                                    "y": 609,
+                                    "w": 81,
+                                    "h": 76
+                                }
+                            },
+                            "938": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1022,
+                                    "y": 608,
+                                    "w": 81,
+                                    "h": 75
+                                }
+                            },
+                            "939": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1023,
+                                    "y": 607,
+                                    "w": 80,
+                                    "h": 75
+                                }
+                            },
+                            "940": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1023,
+                                    "y": 606,
+                                    "w": 81,
+                                    "h": 75
+                                }
+                            },
+                            "941": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1024,
+                                    "y": 604,
+                                    "w": 80,
+                                    "h": 75
+                                }
+                            },
+                            "942": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1025,
+                                    "y": 603,
+                                    "w": 79,
+                                    "h": 75
+                                }
+                            },
+                            "943": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1025,
+                                    "y": 602,
+                                    "w": 79,
+                                    "h": 75
+                                }
+                            },
+                            "944": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1026,
+                                    "y": 601,
+                                    "w": 79,
+                                    "h": 74
+                                }
+                            },
+                            "945": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1026,
+                                    "y": 600,
+                                    "w": 79,
+                                    "h": 74
+                                }
+                            },
+                            "946": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1027,
+                                    "y": 599,
+                                    "w": 78,
+                                    "h": 74
+                                }
+                            },
+                            "947": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1027,
+                                    "y": 597,
+                                    "w": 78,
+                                    "h": 75
+                                }
+                            },
+                            "948": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1028,
+                                    "y": 596,
+                                    "w": 78,
+                                    "h": 74
+                                }
+                            },
+                            "949": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1028,
+                                    "y": 595,
+                                    "w": 79,
+                                    "h": 74
+                                }
+                            },
+                            "950": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1029,
+                                    "y": 594,
+                                    "w": 78,
+                                    "h": 74
+                                }
+                            },
+                            "951": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1029,
+                                    "y": 593,
+                                    "w": 79,
+                                    "h": 73
+                                }
+                            },
+                            "952": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1029,
+                                    "y": 591,
+                                    "w": 79,
+                                    "h": 74
+                                }
+                            },
+                            "953": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1030,
+                                    "y": 590,
+                                    "w": 79,
+                                    "h": 74
+                                }
+                            },
+                            "954": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1030,
+                                    "y": 589,
+                                    "w": 80,
+                                    "h": 73
+                                }
+                            },
+                            "955": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1031,
+                                    "y": 588,
+                                    "w": 79,
+                                    "h": 73
+                                }
+                            },
+                            "956": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 1031,
+                                    "y": 587,
+                                    "w": 80,
+                                    "h": 73
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "activity": "vehicle_stopping",
+            "activityID": 17,
+            "localization": {
+                "VIRAT_S_000205_05_001092_001124.avi": {
+                    "534": 1,
+                    "599": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Null",
+                    "objectID": 17,
+                    "localization": {
+                        "VIRAT_S_000205_05_001092_001124.avi": {
+                            "534": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 939,
+                                    "y": 528,
+                                    "w": 97,
+                                    "h": 83
+                                }
+                            },
+                            "535": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 937,
+                                    "y": 529,
+                                    "w": 98,
+                                    "h": 83
+                                }
+                            },
+                            "536": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 936,
+                                    "y": 530,
+                                    "w": 98,
+                                    "h": 83
+                                }
+                            },
+                            "537": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 935,
+                                    "y": 530,
+                                    "w": 98,
+                                    "h": 84
+                                }
+                            },
+                            "538": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 933,
+                                    "y": 531,
+                                    "w": 99,
+                                    "h": 83
+                                }
+                            },
+                            "539": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 932,
+                                    "y": 531,
+                                    "w": 99,
+                                    "h": 84
+                                }
+                            },
+                            "540": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 931,
+                                    "y": 532,
+                                    "w": 99,
+                                    "h": 84
+                                }
+                            },
+                            "541": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 929,
+                                    "y": 533,
+                                    "w": 100,
+                                    "h": 84
+                                }
+                            },
+                            "542": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 928,
+                                    "y": 533,
+                                    "w": 100,
+                                    "h": 85
+                                }
+                            },
+                            "543": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 927,
+                                    "y": 534,
+                                    "w": 100,
+                                    "h": 85
+                                }
+                            },
+                            "544": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 925,
+                                    "y": 535,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "545": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 924,
+                                    "y": 535,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "546": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 923,
+                                    "y": 536,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "547": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 922,
+                                    "y": 536,
+                                    "w": 101,
+                                    "h": 86
+                                }
+                            },
+                            "548": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 920,
+                                    "y": 537,
+                                    "w": 102,
+                                    "h": 86
+                                }
+                            },
+                            "549": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 919,
+                                    "y": 538,
+                                    "w": 102,
+                                    "h": 86
+                                }
+                            },
+                            "550": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 918,
+                                    "y": 538,
+                                    "w": 102,
+                                    "h": 87
+                                }
+                            },
+                            "551": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 916,
+                                    "y": 539,
+                                    "w": 103,
+                                    "h": 86
+                                }
+                            },
+                            "552": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 915,
+                                    "y": 539,
+                                    "w": 103,
+                                    "h": 87
+                                }
+                            },
+                            "553": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 914,
+                                    "y": 540,
+                                    "w": 103,
+                                    "h": 87
+                                }
+                            },
+                            "554": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 912,
+                                    "y": 541,
+                                    "w": 104,
+                                    "h": 87
+                                }
+                            },
+                            "555": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 911,
+                                    "y": 541,
+                                    "w": 104,
+                                    "h": 88
+                                }
+                            },
+                            "556": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 910,
+                                    "y": 542,
+                                    "w": 104,
+                                    "h": 88
+                                }
+                            },
+                            "557": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 908,
+                                    "y": 542,
+                                    "w": 105,
+                                    "h": 89
+                                }
+                            },
+                            "558": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 908,
+                                    "y": 543,
+                                    "w": 104,
+                                    "h": 88
+                                }
+                            },
+                            "559": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 907,
+                                    "y": 543,
+                                    "w": 104,
+                                    "h": 89
+                                }
+                            },
+                            "560": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 906,
+                                    "y": 543,
+                                    "w": 104,
+                                    "h": 89
+                                }
+                            },
+                            "561": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 905,
+                                    "y": 544,
+                                    "w": 105,
+                                    "h": 89
+                                }
+                            },
+                            "562": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 904,
+                                    "y": 544,
+                                    "w": 105,
+                                    "h": 89
+                                }
+                            },
+                            "563": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 903,
+                                    "y": 544,
+                                    "w": 106,
+                                    "h": 90
+                                }
+                            },
+                            "564": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 903,
+                                    "y": 544,
+                                    "w": 105,
+                                    "h": 90
+                                }
+                            },
+                            "565": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 902,
+                                    "y": 545,
+                                    "w": 105,
+                                    "h": 90
+                                }
+                            },
+                            "566": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 901,
+                                    "y": 545,
+                                    "w": 106,
+                                    "h": 91
+                                }
+                            },
+                            "567": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 900,
+                                    "y": 545,
+                                    "w": 106,
+                                    "h": 91
+                                }
+                            },
+                            "568": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 899,
+                                    "y": 546,
+                                    "w": 106,
+                                    "h": 91
+                                }
+                            },
+                            "569": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 899,
+                                    "y": 546,
+                                    "w": 106,
+                                    "h": 91
+                                }
+                            },
+                            "570": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 898,
+                                    "y": 546,
+                                    "w": 106,
+                                    "h": 92
+                                }
+                            },
+                            "571": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 897,
+                                    "y": 546,
+                                    "w": 106,
+                                    "h": 92
+                                }
+                            },
+                            "572": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 896,
+                                    "y": 547,
+                                    "w": 107,
+                                    "h": 92
+                                }
+                            },
+                            "573": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 895,
+                                    "y": 547,
+                                    "w": 107,
+                                    "h": 92
+                                }
+                            },
+                            "574": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 547,
+                                    "w": 107,
+                                    "h": 93
+                                }
+                            },
+                            "575": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 548,
+                                    "w": 107,
+                                    "h": 93
+                                }
+                            },
+                            "576": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 548,
+                                    "w": 107,
+                                    "h": 93
+                                }
+                            },
+                            "577": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 548,
+                                    "w": 108,
+                                    "h": 93
+                                }
+                            },
+                            "578": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 549,
+                                    "w": 107,
+                                    "h": 93
+                                }
+                            },
+                            "579": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 549,
+                                    "w": 107,
+                                    "h": 93
+                                }
+                            },
+                            "580": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 549,
+                                    "w": 107,
+                                    "h": 93
+                                }
+                            },
+                            "581": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 893,
+                                    "y": 550,
+                                    "w": 107,
+                                    "h": 92
+                                }
+                            },
+                            "582": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 893,
+                                    "y": 550,
+                                    "w": 107,
+                                    "h": 92
+                                }
+                            },
+                            "583": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 893,
+                                    "y": 550,
+                                    "w": 107,
+                                    "h": 93
+                                }
+                            },
+                            "584": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 892,
+                                    "y": 551,
+                                    "w": 107,
+                                    "h": 92
+                                }
+                            },
+                            "585": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 892,
+                                    "y": 551,
+                                    "w": 107,
+                                    "h": 92
+                                }
+                            },
+                            "586": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 892,
+                                    "y": 551,
+                                    "w": 107,
+                                    "h": 92
+                                }
+                            },
+                            "587": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 891,
+                                    "y": 552,
+                                    "w": 107,
+                                    "h": 91
+                                }
+                            },
+                            "588": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 891,
+                                    "y": 552,
+                                    "w": 107,
+                                    "h": 91
+                                }
+                            },
+                            "589": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 891,
+                                    "y": 552,
+                                    "w": 107,
+                                    "h": 91
+                                }
+                            },
+                            "590": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 890,
+                                    "y": 553,
+                                    "w": 107,
+                                    "h": 91
+                                }
+                            },
+                            "591": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 890,
+                                    "y": 553,
+                                    "w": 107,
+                                    "h": 91
+                                }
+                            },
+                            "592": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 890,
+                                    "y": 553,
+                                    "w": 107,
+                                    "h": 91
+                                }
+                            },
+                            "593": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 889,
+                                    "y": 554,
+                                    "w": 107,
+                                    "h": 90
+                                }
+                            },
+                            "594": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 889,
+                                    "y": 554,
+                                    "w": 107,
+                                    "h": 90
+                                }
+                            },
+                            "595": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 889,
+                                    "y": 554,
+                                    "w": 107,
+                                    "h": 90
+                                }
+                            },
+                            "596": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 889,
+                                    "y": 555,
+                                    "w": 107,
+                                    "h": 90
+                                }
+                            },
+                            "597": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 888,
+                                    "y": 555,
+                                    "w": 107,
+                                    "h": 90
+                                }
+                            },
+                            "598": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 888,
+                                    "y": 555,
+                                    "w": 107,
+                                    "h": 90
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "activity": "vehicle_stopping",
+            "activityID": 18,
+            "localization": {
+                "VIRAT_S_000205_05_001092_001124.avi": {
+                    "910": 1,
+                    "957": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Null",
+                    "objectID": 18,
+                    "localization": {
+                        "VIRAT_S_000205_05_001092_001124.avi": {
+                            "910": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 932,
+                                    "y": 539,
+                                    "w": 94,
+                                    "h": 80
+                                }
+                            },
+                            "911": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 931,
+                                    "y": 540,
+                                    "w": 94,
+                                    "h": 80
+                                }
+                            },
+                            "912": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 930,
+                                    "y": 540,
+                                    "w": 93,
+                                    "h": 81
+                                }
+                            },
+                            "913": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 929,
+                                    "y": 541,
+                                    "w": 93,
+                                    "h": 81
+                                }
+                            },
+                            "914": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 927,
+                                    "y": 541,
+                                    "w": 94,
+                                    "h": 81
+                                }
+                            },
+                            "915": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 920,
+                                    "y": 546,
+                                    "w": 94,
+                                    "h": 82
+                                }
+                            },
+                            "916": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 919,
+                                    "y": 547,
+                                    "w": 95,
+                                    "h": 82
+                                }
+                            },
+                            "917": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 918,
+                                    "y": 547,
+                                    "w": 95,
+                                    "h": 83
+                                }
+                            },
+                            "918": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 917,
+                                    "y": 548,
+                                    "w": 95,
+                                    "h": 82
+                                }
+                            },
+                            "919": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 916,
+                                    "y": 548,
+                                    "w": 96,
+                                    "h": 83
+                                }
+                            },
+                            "920": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 915,
+                                    "y": 549,
+                                    "w": 96,
+                                    "h": 82
+                                }
+                            },
+                            "921": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 914,
+                                    "y": 549,
+                                    "w": 96,
+                                    "h": 83
+                                }
+                            },
+                            "922": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 913,
+                                    "y": 550,
+                                    "w": 97,
+                                    "h": 83
+                                }
+                            },
+                            "923": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 912,
+                                    "y": 550,
+                                    "w": 97,
+                                    "h": 83
+                                }
+                            },
+                            "924": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 911,
+                                    "y": 551,
+                                    "w": 97,
+                                    "h": 83
+                                }
+                            },
+                            "925": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 910,
+                                    "y": 551,
+                                    "w": 98,
+                                    "h": 83
+                                }
+                            },
+                            "926": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 909,
+                                    "y": 552,
+                                    "w": 98,
+                                    "h": 83
+                                }
+                            },
+                            "927": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 908,
+                                    "y": 552,
+                                    "w": 98,
+                                    "h": 83
+                                }
+                            },
+                            "928": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 907,
+                                    "y": 553,
+                                    "w": 99,
+                                    "h": 83
+                                }
+                            },
+                            "929": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 906,
+                                    "y": 553,
+                                    "w": 99,
+                                    "h": 84
+                                }
+                            },
+                            "930": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 905,
+                                    "y": 554,
+                                    "w": 99,
+                                    "h": 83
+                                }
+                            },
+                            "931": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 904,
+                                    "y": 554,
+                                    "w": 100,
+                                    "h": 84
+                                }
+                            },
+                            "932": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 903,
+                                    "y": 555,
+                                    "w": 100,
+                                    "h": 83
+                                }
+                            },
+                            "933": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 902,
+                                    "y": 555,
+                                    "w": 100,
+                                    "h": 84
+                                }
+                            },
+                            "934": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 901,
+                                    "y": 556,
+                                    "w": 101,
+                                    "h": 84
+                                }
+                            },
+                            "935": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 901,
+                                    "y": 556,
+                                    "w": 100,
+                                    "h": 84
+                                }
+                            },
+                            "936": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 900,
+                                    "y": 556,
+                                    "w": 101,
+                                    "h": 84
+                                }
+                            },
+                            "937": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 900,
+                                    "y": 556,
+                                    "w": 100,
+                                    "h": 84
+                                }
+                            },
+                            "938": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 899,
+                                    "y": 557,
+                                    "w": 101,
+                                    "h": 84
+                                }
+                            },
+                            "939": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 899,
+                                    "y": 557,
+                                    "w": 100,
+                                    "h": 84
+                                }
+                            },
+                            "940": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 898,
+                                    "y": 557,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "941": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 898,
+                                    "y": 558,
+                                    "w": 100,
+                                    "h": 84
+                                }
+                            },
+                            "942": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 897,
+                                    "y": 558,
+                                    "w": 101,
+                                    "h": 84
+                                }
+                            },
+                            "943": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 897,
+                                    "y": 558,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "944": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 896,
+                                    "y": 558,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "945": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 896,
+                                    "y": 559,
+                                    "w": 101,
+                                    "h": 84
+                                }
+                            },
+                            "946": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 895,
+                                    "y": 559,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "947": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 895,
+                                    "y": 559,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "948": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 560,
+                                    "w": 101,
+                                    "h": 84
+                                }
+                            },
+                            "949": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 894,
+                                    "y": 560,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "950": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 893,
+                                    "y": 560,
+                                    "w": 102,
+                                    "h": 85
+                                }
+                            },
+                            "951": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 893,
+                                    "y": 561,
+                                    "w": 101,
+                                    "h": 84
+                                }
+                            },
+                            "952": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 892,
+                                    "y": 561,
+                                    "w": 102,
+                                    "h": 85
+                                }
+                            },
+                            "953": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 892,
+                                    "y": 561,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "954": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 891,
+                                    "y": 562,
+                                    "w": 102,
+                                    "h": 84
+                                }
+                            },
+                            "955": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 891,
+                                    "y": 562,
+                                    "w": 101,
+                                    "h": 85
+                                }
+                            },
+                            "956": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 890,
+                                    "y": 562,
+                                    "w": 102,
+                                    "h": 85
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "activity": "vehicle_starting",
+            "activityID": 19,
+            "localization": {
+                "VIRAT_S_000205_05_001092_001124.avi": {
+                    "617": 1,
+                    "700": 0
+                }
+            },
+            "objects": [
+                {
+                    "objectType": "Null",
+                    "objectID": 19,
+                    "localization": {
+                        "VIRAT_S_000205_05_001092_001124.avi": {
+                            "617": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 886,
+                                    "y": 555,
+                                    "w": 109,
+                                    "h": 91
+                                }
+                            },
+                            "618": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 886,
+                                    "y": 555,
+                                    "w": 109,
+                                    "h": 91
+                                }
+                            },
+                            "619": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 886,
+                                    "y": 555,
+                                    "w": 109,
+                                    "h": 91
+                                }
+                            },
+                            "620": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 886,
+                                    "y": 555,
+                                    "w": 109,
+                                    "h": 92
+                                }
+                            },
+                            "621": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 886,
+                                    "y": 555,
+                                    "w": 109,
+                                    "h": 92
+                                }
+                            },
+                            "622": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "623": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "624": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "625": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "626": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "627": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "628": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "629": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 885,
+                                    "y": 555,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "630": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 884,
+                                    "y": 555,
+                                    "w": 111,
+                                    "h": 93
+                                }
+                            },
+                            "631": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 884,
+                                    "y": 556,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "632": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 883,
+                                    "y": 556,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "633": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 883,
+                                    "y": 557,
+                                    "w": 109,
+                                    "h": 91
+                                }
+                            },
+                            "634": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 882,
+                                    "y": 557,
+                                    "w": 110,
+                                    "h": 91
+                                }
+                            },
+                            "635": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 882,
+                                    "y": 558,
+                                    "w": 109,
+                                    "h": 91
+                                }
+                            },
+                            "636": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 881,
+                                    "y": 558,
+                                    "w": 110,
+                                    "h": 91
+                                }
+                            },
+                            "637": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 881,
+                                    "y": 559,
+                                    "w": 109,
+                                    "h": 90
+                                }
+                            },
+                            "638": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 880,
+                                    "y": 559,
+                                    "w": 109,
+                                    "h": 90
+                                }
+                            },
+                            "639": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 879,
+                                    "y": 560,
+                                    "w": 109,
+                                    "h": 89
+                                }
+                            },
+                            "640": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 879,
+                                    "y": 560,
+                                    "w": 109,
+                                    "h": 90
+                                }
+                            },
+                            "641": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 878,
+                                    "y": 560,
+                                    "w": 109,
+                                    "h": 91
+                                }
+                            },
+                            "642": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 877,
+                                    "y": 561,
+                                    "w": 110,
+                                    "h": 90
+                                }
+                            },
+                            "643": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 876,
+                                    "y": 561,
+                                    "w": 110,
+                                    "h": 91
+                                }
+                            },
+                            "644": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 876,
+                                    "y": 561,
+                                    "w": 109,
+                                    "h": 91
+                                }
+                            },
+                            "645": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 875,
+                                    "y": 562,
+                                    "w": 110,
+                                    "h": 91
+                                }
+                            },
+                            "646": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 874,
+                                    "y": 562,
+                                    "w": 110,
+                                    "h": 91
+                                }
+                            },
+                            "647": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 873,
+                                    "y": 562,
+                                    "w": 111,
+                                    "h": 92
+                                }
+                            },
+                            "648": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 872,
+                                    "y": 563,
+                                    "w": 111,
+                                    "h": 91
+                                }
+                            },
+                            "649": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 872,
+                                    "y": 563,
+                                    "w": 110,
+                                    "h": 92
+                                }
+                            },
+                            "650": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 871,
+                                    "y": 563,
+                                    "w": 111,
+                                    "h": 92
+                                }
+                            },
+                            "651": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 870,
+                                    "y": 564,
+                                    "w": 111,
+                                    "h": 92
+                                }
+                            },
+                            "652": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 869,
+                                    "y": 564,
+                                    "w": 112,
+                                    "h": 92
+                                }
+                            },
+                            "653": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 869,
+                                    "y": 564,
+                                    "w": 111,
+                                    "h": 93
+                                }
+                            },
+                            "654": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 868,
+                                    "y": 565,
+                                    "w": 111,
+                                    "h": 92
+                                }
+                            },
+                            "655": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 867,
+                                    "y": 565,
+                                    "w": 112,
+                                    "h": 93
+                                }
+                            },
+                            "656": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 866,
+                                    "y": 565,
+                                    "w": 112,
+                                    "h": 93
+                                }
+                            },
+                            "657": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 865,
+                                    "y": 566,
+                                    "w": 112,
+                                    "h": 93
+                                }
+                            },
+                            "658": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 865,
+                                    "y": 566,
+                                    "w": 112,
+                                    "h": 93
+                                }
+                            },
+                            "659": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 864,
+                                    "y": 566,
+                                    "w": 112,
+                                    "h": 94
+                                }
+                            },
+                            "660": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 863,
+                                    "y": 567,
+                                    "w": 113,
+                                    "h": 93
+                                }
+                            },
+                            "661": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 862,
+                                    "y": 567,
+                                    "w": 113,
+                                    "h": 94
+                                }
+                            },
+                            "662": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 861,
+                                    "y": 567,
+                                    "w": 114,
+                                    "h": 95
+                                }
+                            },
+                            "663": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 860,
+                                    "y": 568,
+                                    "w": 113,
+                                    "h": 95
+                                }
+                            },
+                            "664": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 858,
+                                    "y": 569,
+                                    "w": 114,
+                                    "h": 95
+                                }
+                            },
+                            "665": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 856,
+                                    "y": 570,
+                                    "w": 114,
+                                    "h": 95
+                                }
+                            },
+                            "666": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 855,
+                                    "y": 571,
+                                    "w": 114,
+                                    "h": 95
+                                }
+                            },
+                            "667": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 853,
+                                    "y": 572,
+                                    "w": 115,
+                                    "h": 95
+                                }
+                            },
+                            "668": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 851,
+                                    "y": 573,
+                                    "w": 116,
+                                    "h": 96
+                                }
+                            },
+                            "669": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 850,
+                                    "y": 574,
+                                    "w": 115,
+                                    "h": 96
+                                }
+                            },
+                            "670": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 848,
+                                    "y": 574,
+                                    "w": 116,
+                                    "h": 97
+                                }
+                            },
+                            "671": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 846,
+                                    "y": 575,
+                                    "w": 117,
+                                    "h": 97
+                                }
+                            },
+                            "672": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 845,
+                                    "y": 576,
+                                    "w": 116,
+                                    "h": 97
+                                }
+                            },
+                            "673": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 843,
+                                    "y": 577,
+                                    "w": 117,
+                                    "h": 98
+                                }
+                            },
+                            "674": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 841,
+                                    "y": 578,
+                                    "w": 118,
+                                    "h": 98
+                                }
+                            },
+                            "675": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 840,
+                                    "y": 579,
+                                    "w": 117,
+                                    "h": 98
+                                }
+                            },
+                            "676": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 838,
+                                    "y": 580,
+                                    "w": 118,
+                                    "h": 98
+                                }
+                            },
+                            "677": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 836,
+                                    "y": 581,
+                                    "w": 119,
+                                    "h": 98
+                                }
+                            },
+                            "678": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 834,
+                                    "y": 581,
+                                    "w": 119,
+                                    "h": 99
+                                }
+                            },
+                            "679": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 833,
+                                    "y": 582,
+                                    "w": 119,
+                                    "h": 100
+                                }
+                            },
+                            "680": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 831,
+                                    "y": 583,
+                                    "w": 120,
+                                    "h": 100
+                                }
+                            },
+                            "681": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 829,
+                                    "y": 584,
+                                    "w": 121,
+                                    "h": 100
+                                }
+                            },
+                            "682": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 828,
+                                    "y": 585,
+                                    "w": 120,
+                                    "h": 100
+                                }
+                            },
+                            "683": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 826,
+                                    "y": 586,
+                                    "w": 121,
+                                    "h": 100
+                                }
+                            },
+                            "684": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 824,
+                                    "y": 587,
+                                    "w": 122,
+                                    "h": 101
+                                }
+                            },
+                            "685": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 823,
+                                    "y": 588,
+                                    "w": 121,
+                                    "h": 101
+                                }
+                            },
+                            "686": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 821,
+                                    "y": 588,
+                                    "w": 122,
+                                    "h": 102
+                                }
+                            },
+                            "687": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 819,
+                                    "y": 589,
+                                    "w": 123,
+                                    "h": 102
+                                }
+                            },
+                            "688": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 818,
+                                    "y": 590,
+                                    "w": 122,
+                                    "h": 102
+                                }
+                            },
+                            "689": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 816,
+                                    "y": 591,
+                                    "w": 123,
+                                    "h": 103
+                                }
+                            },
+                            "690": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 814,
+                                    "y": 592,
+                                    "w": 124,
+                                    "h": 103
+                                }
+                            },
+                            "691": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 813,
+                                    "y": 593,
+                                    "w": 123,
+                                    "h": 103
+                                }
+                            },
+                            "692": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 811,
+                                    "y": 594,
+                                    "w": 124,
+                                    "h": 103
+                                }
+                            },
+                            "693": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 809,
+                                    "y": 595,
+                                    "w": 125,
+                                    "h": 103
+                                }
+                            },
+                            "694": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 808,
+                                    "y": 595,
+                                    "w": 125,
+                                    "h": 105
+                                }
+                            },
+                            "695": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 805,
+                                    "y": 597,
+                                    "w": 126,
+                                    "h": 104
+                                }
+                            },
+                            "696": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 803,
+                                    "y": 598,
+                                    "w": 126,
+                                    "h": 104
+                                }
+                            },
+                            "697": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 800,
+                                    "y": 599,
+                                    "w": 127,
+                                    "h": 105
+                                }
+                            },
+                            "698": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 798,
+                                    "y": 600,
+                                    "w": 127,
+                                    "h": 105
+                                }
+                            },
+                            "699": {
+                                "presenceConf": 1.0,
+                                "boundingBox": {
+                                    "x": 796,
+                                    "y": 601,
+                                    "w": 127,
+                                    "h": 106
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "filesProcessed": "VIRAT_S_000205_05_001092_001124.avi"
+}
