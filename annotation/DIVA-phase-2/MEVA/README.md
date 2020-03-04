@@ -2,6 +2,10 @@
 
 These are annotations of the released MEVA video data.
 
+## Activity Names
+
+In February 2020, the DIVA project rationalized the activity names (the defintions have **not** changed). The new activity names can be found [here](../../../documents/activity-names.txt); a file mapping from old activity names to new can be found [here](../../../documents/activity-name-mapping.csv).
+
 ## Naming conventions for MEVA video clips and annotations
 
 Each video clip (nominally five minutes in length) is named according to the pattern
