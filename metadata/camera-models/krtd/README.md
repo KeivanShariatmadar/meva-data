@@ -1,6 +1,6 @@
 These are the KRTD camera model files for the released MEVA data clips.
 
-Each camera model is associated with a clip name; these files can also be used with other clips as identified in the [meva-clip-camera-and-time-table.txt](../meva-clip-camera-and-time-table.txt) file; see the associated [readme](../clip-table-readme.md) for more details.
+Each camera model is associated with a clip name; these files can also be used with other clips as identified in the [meva-clip-camera-and-time-table.txt](../../meva-clip-camera-and-time-table.txt) file; see the associated [readme](../../clip-table-readme.md) for more details.
 
 All cameras *with the exception of the indoor cameras G299 and G330* are registered into a common east, north, up (ENU) coordinate system with meters units and origin (0, 0, 0) located at:
 
