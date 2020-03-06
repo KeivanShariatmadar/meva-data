@@ -1,9 +1,9 @@
 This directory contains camera models for the MEVA KF1 collection.
 
-The KF1 collection took place in two separate events, in March and May of 2018. Between the events, camera positions may have shifted; for the moment the camera models are broken out by collection month. As we refine our models, this organization may change.
-
 This directory includes:
 
-* [2018-03](2018-03) is a directory containing models for exterior cameras for the March 2018 collection event.
+* [krtd](krtd) contains camera models associated with a particular camera and timestamp.
+  * The KRTD file format is explained in the [krtd/README.md](krtd/README.md) file.
+  * These are mapped to video clips via the [meva-clip-camera-and-time-table.txt](../meva-clip-camera-and-time-table.txt) file; see the associated [readme](../clip-table-readme.md) for more details.
 
-* [indoor-gym](indoor-gym) is a directory containing models for the interior gym cameras for the March 2018 collection event.
+* [old](old) contains the previously available KRTD files and associated artifacts.
