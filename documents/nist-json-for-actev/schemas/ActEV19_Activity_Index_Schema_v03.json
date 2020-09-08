@@ -1,0 +1,159 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$version": "ActEV19_Activity_Index_v03",
+  "definitions": {
+    "exemplar": {
+      "type": "object",
+      "properties": {
+        "domain": {
+          "type": "string"
+        },
+        "filename": {
+          "type": "string",
+          "pattern": "^[A-Za-z0-9_\\-\\./]+$"
+        },
+        "annotation_type": {
+          "type": "string"
+        },
+        "annotation": {
+          "type": "object",
+          "properties": {
+            "activities": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9_\\-\\./]+$"
+            },
+            "file-index": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9_\\-\\./]+$"
+            }
+          },
+          "required": [
+            "activities",
+            "file-index"
+          ]
+        }
+      },
+      "required": [
+        "domain",
+        "filename",
+        "annotation_type",
+        "annotation"
+      ]
+    }
+  },
+  "type": "object",
+  "title": "The activity index json schema",
+  "propertyNames": {
+    "enum": [
+      "Closing",
+      "Closing_Trunk",
+      "Entering",
+      "Exiting",
+      "Interacts",
+      "Loading",
+      "Open_Trunk",
+      "Opening",
+      "Pull",
+      "Riding",
+      "Talking",
+      "Transport_HeavyCarry",
+      "Unloading",
+      "abandon_package",
+      "activity_carrying",
+      "hand_interaction",
+      "object_transfer",
+      "person_closes_facility_door",
+      "person_closes_vehicle_door",
+      "person_enters_through_structure",
+      "person_enters_vehicle",
+      "person_exits_through_structure",
+      "person_exits_vehicle",
+      "person_laptop_interaction",
+      "person_loads_vehicle",
+      "person_opens_facility_door",
+      "person_opens_vehicle_door",
+      "person_person_embrace",
+      "person_picks_up_object",
+      "person_purchasing",
+      "person_reading_document",
+      "person_sets_down_object",
+      "person_sitting_down",
+      "person_standing_up",
+      "person_unloads_vehicle",
+      "specialized_talking_phone",
+      "specialized_texting_phone",
+      "theft",
+      "vehicle_drops_off_person",
+      "vehicle_picks_up_person",
+      "vehicle_reversing",
+      "vehicle_starting",
+      "vehicle_stopping",
+      "vehicle_turning_left",
+      "vehicle_turning_right",
+      "vehicle_u_turn"
+    ]
+  },
+  "patternProperties": {
+    ".*": {
+      "type": "object",
+      "optional": [
+        "objectTypes",
+        "objectTypeMap",
+        "training"
+      ],
+      "properties": {
+        "objectTypes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "Door",
+              "Person",
+              "Vehicle",
+              "Construction_Vehicle",
+              "Bike",
+              "Other",
+              "Prop",
+              "Push_Pulled_Object"
+            ]
+          }
+        },
+        "objectTypeMap": {
+          "type": "object",
+          "properties": {
+            ".*": {
+              "type": "string"
+            }
+          }
+        },
+        "training": {
+          "type": "object",
+          "properties": {
+            "description": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string"
+                },
+                "filename": {
+                  "type": "string",
+                  "pattern": "^[A-Za-z0-9_\\-\\./]+$"
+                }
+              }
+            },
+            "exemplars": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/exemplar"
+              }
+            }
+          },
+          "required": [
+            "description",
+            "exemplars"
+          ]
+        }
+      }
+    }
+  }
+}

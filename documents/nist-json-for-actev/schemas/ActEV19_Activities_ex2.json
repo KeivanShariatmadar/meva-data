@@ -1,0 +1,224 @@
+{
+  "filesProcessed": [
+    "2018-03-07.16-50-00.16-55-00.bus.G475.avi"
+  ],
+  "processingReport": {
+    "fileStatuses": {
+      "status": "success",
+      "message": "This is an ok message."
+    },
+    "siteSpecific": {}
+  },
+  "activities": [
+    {
+      "activity": "Closing",
+      "activityID": 1,
+      "alertFrame": 3062,
+      "localization": {
+        "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+          "3034": 1,
+          "3062": 0
+        }
+      },
+      "objects": [
+        {
+          "objectType": "person",
+          "objectID": 1,
+          "annotatedBy": "Human",
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3034": {
+                "boundingBox": {
+                  "x": 10,
+                  "y": 30,
+                  "w": 50,
+                  "h": 20
+                }
+              },
+              "3052": {
+                "boundingBox": {
+                  "x": 80,
+                  "y": 10,
+                  "w": 50,
+                  "h": 20
+                }
+              },
+              "3062": {}
+            }
+          }
+        },
+        {
+          "objectType": "construction_vehicle",
+          "objectID": 2,
+          "annotatedBy": "Human",
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3034": {
+                "boundingBox": {
+                  "x": 100,
+                  "y": 100,
+                  "w": 80,
+                  "h": 60
+                }
+              },
+              "3062": {}
+            }
+          }
+        },
+        {
+          "objectType": "construction_vehicle",
+          "objectID": 3,
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3034": {
+                "boundingBox": {
+                  "x": 0,
+                  "y": 10,
+                  "w": 100,
+                  "h": 80
+                }
+              },
+              "3062": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activity": "Closing",
+      "activityID": 2,
+      "alertFrame": 19982,
+      "localization": {
+        "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+          "19945": 1,
+          "19982": 0
+        }
+      },
+      "objects": [
+        {
+          "objectType": "person",
+          "objectID": 1,
+          "annotatedBy": "Human",
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3034": {
+                "boundingBox": {
+                  "x": 10,
+                  "y": 30,
+                  "w": 50,
+                  "h": 20
+                }
+              },
+              "3052": {
+                "boundingBox": {
+                  "x": 80,
+                  "y": 10,
+                  "w": 50,
+                  "h": 20
+                }
+              },
+              "3062": {}
+            }
+          }
+        },
+        {
+          "objectType": "construction_vehicle",
+          "objectID": 2,
+          "annotatedBy": "Human",
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3034": {
+                "boundingBox": {
+                  "x": 100,
+                  "y": 100,
+                  "w": 80,
+                  "h": 60
+                }
+              },
+              "3062": {}
+            }
+          }
+        },
+        {
+          "objectType": "construction_vehicle",
+          "objectID": 3,
+          "annotatedBy": "Human",
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3034": {
+                "boundingBox": {
+                  "x": 0,
+                  "y": 10,
+                  "w": 100,
+                  "h": 80
+                }
+              },
+              "3062": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activity": "Entering",
+      "activityID": 3,
+      "alertFrame": 3897,
+      "localization": {
+        "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+          "3845": 1,
+          "3897": 0
+        }
+      },
+      "objects": [
+        {
+          "objectType": "person",
+          "objectID": 1,
+          "annotatedBy": "Human",
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3845": {
+                "boundingBox": {
+                  "x": 10,
+                  "y": 30,
+                  "w": 50,
+                  "h": 20
+                }
+              },
+              "3897": {}
+            }
+          }
+        },
+        {
+          "objectType": "construction_vehicle",
+          "objectID": 2,
+          "annotatedBy": "Human",
+          "localization": {
+            "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+              "3845": {
+                "boundingBox": {
+                  "x": 100,
+                  "y": 100,
+                  "w": 80,
+                  "h": 60
+                }
+              },
+              "3897": {}
+            }
+          }
+        }
+      ]
+    },
+    {
+      "activity": "Entering",
+      "activityID": 4,
+      "alertFrame": 6098,
+      "localization": {
+        "2018-03-07.16-50-00.16-55-00.bus.G475.avi": {
+          "6067": 1,
+          "6098": 0
+        }
+      },
+      "objects": []
+    }
+  ]
+}

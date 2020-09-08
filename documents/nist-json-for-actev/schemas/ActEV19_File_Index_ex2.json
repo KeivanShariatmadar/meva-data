@@ -1,0 +1,63 @@
+{
+  "2018-03-07.16-55-00.17-00-00.admin.G329.avi": {
+      "facility_id": "KF1",
+     "begin_time": "16-55-00",
+     "camera_id": "G329",
+     "camera_model": "reolink",
+     "camera_resolution": "1920x1072",
+     "camera_set_id": "3-329",
+     "camera_type": "EO_NIR",
+     "clip_id": "2018-03-07.16-55-00.17-00-00.admin.G329",
+     "date": "2018-03-07",
+     "end_time": "17-00-00",
+     "filename": "./2018-03-07.16-55-00.17-00-00.admin.G329.avi",
+     "frame_offset_precision_to_reference_clip_id": 0,
+     "frame_offset_to_reference_clip_id": 0,
+     "framerate": 30,
+     "krtd_filename": "",
+     "ply": {
+         "hi-res": "./mutc-3d-model/mutc.ply",
+         "low-res": "./mutc-3d-model/mutc_coarse.ply"
+     },
+     "recording_site": "indoor",
+     "reference_camera_id": "G329",
+     "reference_clip_id": "2018-03-07.16-55-00.17-00-00.admin.G329",
+     "reference_file_index_key": "2018-03-07.16-55-00.17-00-00.admin.G329.avi",
+     "selected": {
+         "1": 1,
+         "9001": 0
+     },
+     "slot_date_time": "2018-03-07.16-55-00"
+  },
+   "2018-03-07.16-55-00.17-00-00.school.G422.avi": {
+      "facility_id": "KF1",
+     "begin_time": "16-55-00",
+     "camera_id": "G422",
+     "camera_model": "reolink",
+     "camera_resolution": "1920x1080",
+     "camera_set_id": "3-421",
+     "camera_type": "EO_NIR",
+     "clip_id": "2018-03-07.16-55-00.17-00-00.school.G422",
+     "date": "2018-03-07",
+     "end_time": "17-00-00",
+     "filename": "./2018-03-07.16-55-00.17-00-00.school.G422.avi",
+     "frame_offset_precision_to_reference_clip_id": 30,
+     "frame_offset_to_reference_clip_id": 0,
+     "framerate": 30,
+     "krtd_filename": "",
+     "ply": {
+         "hi-res": "./mutc-3d-model/mutc.ply",
+         "low-res": "./mutc-3d-model/mutc_coarse.ply"
+     },
+     "recording_site": "indoor",
+     "reference_camera_id": "G421",
+     "reference_clip_id": "2018-03-07.16-55-00.17-00-00.school.G421",
+     "reference_file_index_key": "./2018-03-07.16-55-00.17-00-00.school.G421.avi",
+     "selected": {
+         "1": 0,
+          "11": 1,
+         "9002": 0
+     },
+     "slot_date_time": "2018-03-07.16-55-00"
+}
+}

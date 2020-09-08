@@ -1,0 +1,36 @@
+{
+  "Closing_Trunk": {
+    "objectTypeMap": {
+      "person": "*person*",
+      "vehicle": "*vehicle*"
+    },
+    "objectTypes": [
+      "Vehicle",
+      "Person"
+    ]
+  },
+  "Entering": {
+    "objectTypes": [
+      "Door",
+      "Person",
+      "Vehicle"
+    ],
+    "training": {
+      "description": {
+        "type": "text",
+        "filename": "activities/annotation/act001.txt"
+      },
+      "exemplars": [
+        {
+          "domain": "extended_video",
+          "filename": "activities/video/foo.avi",
+          "annotation_type": "actev",
+          "annotation": {
+            "activities": "activities/annotation/act001.activities.json",
+            "file-index": "activities/annotation/act001.file-index.json"
+          }
+        }
+      ]
+    }
+  }
+}
