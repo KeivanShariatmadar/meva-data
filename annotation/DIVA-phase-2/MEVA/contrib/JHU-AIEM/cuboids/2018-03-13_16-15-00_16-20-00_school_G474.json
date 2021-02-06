@@ -1,0 +1,38 @@
+{
+  "0": {
+    "end_frame": 7737,
+    "event_type": "hand_interacts_with_person",
+    "identity": 6345,
+    "objects": {},
+    "start_frame": 7717,
+    "trajectory": {
+      "7717": [
+        46.0,
+        104.0,
+        125.0,
+        199.0
+      ],
+      "7722": [
+        44.0,
+        117.0,
+        117.0,
+        200.0
+      ]
+    }
+  },
+  "1": {
+    "end_frame": 8571,
+    "event_type": "person_transfers_object",
+    "identity": 42110,
+    "objects": {},
+    "start_frame": 8546,
+    "trajectory": {
+      "8551": [
+        114.0,
+        138.0,
+        131.0,
+        169.0
+      ]
+    }
+  }
+}
