@@ -1,0 +1,239 @@
+{
+  "0": {
+    "end_frame": 218,
+    "event_type": "person_exits_scene_through_structure",
+    "identity": 38639,
+    "objects": {},
+    "start_frame": 143,
+    "trajectory": {
+      "143": [
+        903.0,
+        551.0,
+        1013.0,
+        836.0
+      ],
+      "158": [
+        938.5,
+        608.5,
+        1086.0,
+        873.5
+      ],
+      "173": [
+        1040.0,
+        641.0,
+        1137.0,
+        875.0
+      ],
+      "188": [
+        1088.0,
+        627.0,
+        1175.0,
+        891.0
+      ],
+      "203": [
+        1112.0,
+        647.0,
+        1230.0,
+        918.0
+      ],
+      "218": [
+        1118.0,
+        650.0,
+        1222.0,
+        855.0
+      ]
+    }
+  },
+  "1": {
+    "end_frame": 403,
+    "event_type": "person_exits_scene_through_structure",
+    "identity": 38640,
+    "objects": {},
+    "start_frame": 368,
+    "trajectory": {
+      "373": [
+        1465.0,
+        689.5,
+        1574.5,
+        935.5
+      ]
+    }
+  },
+  "2": {
+    "end_frame": 518,
+    "event_type": "person_exits_scene_through_structure",
+    "identity": 38641,
+    "objects": {},
+    "start_frame": 443,
+    "trajectory": {
+      "488": [
+        834.0,
+        809.0,
+        971.0,
+        1025.0
+      ]
+    }
+  },
+  "3": {
+    "end_frame": 674,
+    "event_type": "person_exits_scene_through_structure",
+    "identity": 38642,
+    "objects": {},
+    "start_frame": 594,
+    "trajectory": {
+      "594": [
+        801.0,
+        652.0,
+        917.0,
+        892.0
+      ],
+      "634": [
+        708.0,
+        637.0,
+        855.0,
+        881.0
+      ],
+      "649": [
+        731.0,
+        619.0,
+        852.0,
+        819.0
+      ],
+      "659": [
+        757.0,
+        660.0,
+        896.0,
+        874.0
+      ],
+      "664": [
+        783.0,
+        660.0,
+        906.0,
+        912.0
+      ],
+      "669": [
+        739.3333333333334,
+        642.0,
+        906.0,
+        882.6666666666666
+      ],
+      "674": [
+        818.0,
+        622.0,
+        958.0,
+        886.0
+      ]
+    }
+  },
+  "4": {
+    "end_frame": 175,
+    "event_type": "person_exits_scene_through_structure",
+    "identity": 38643,
+    "objects": {},
+    "start_frame": 85,
+    "trajectory": {
+      "100": [
+        709.3333333333334,
+        519.3333333333334,
+        844.0,
+        751.3333333333334
+      ],
+      "115": [
+        794.0,
+        551.0,
+        912.0,
+        790.0
+      ],
+      "130": [
+        850.0,
+        577.0,
+        957.0,
+        793.0
+      ],
+      "145": [
+        893.0,
+        605.0,
+        989.0,
+        816.0
+      ],
+      "160": [
+        939.0,
+        633.0,
+        1047.0,
+        850.0
+      ],
+      "175": [
+        1014.0,
+        655.0,
+        1119.0,
+        856.0
+      ],
+      "85": [
+        692.0,
+        546.0,
+        796.0,
+        769.0
+      ]
+    }
+  },
+  "5": {
+    "end_frame": 249,
+    "event_type": "person_enters_scene_through_structure",
+    "identity": 38644,
+    "objects": {},
+    "start_frame": 189,
+    "trajectory": {
+      "204": [
+        312.0,
+        783.3333333333334,
+        450.0,
+        1014.6666666666666
+      ]
+    }
+  },
+  "6": {
+    "end_frame": 270,
+    "event_type": "person_enters_scene_through_structure",
+    "identity": 38645,
+    "objects": {},
+    "start_frame": 215,
+    "trajectory": {
+      "225": [
+        407.2,
+        626.4,
+        610.4,
+        826.8
+      ]
+    }
+  },
+  "7": {
+    "end_frame": 755,
+    "event_type": "person_enters_scene_through_structure",
+    "identity": 38646,
+    "objects": {},
+    "start_frame": 720,
+    "trajectory": {
+      "725": [
+        1480.6666666666667,
+        664.0,
+        1642.6666666666667,
+        952.0
+      ]
+    }
+  },
+  "8": {
+    "end_frame": 466,
+    "event_type": "person_talks_to_person",
+    "identity": 38647,
+    "objects": {},
+    "start_frame": 346,
+    "trajectory": {
+      "361": [
+        1423.0,
+        694.0,
+        1576.0,
+        860.0
+      ]
+    }
+  }
+}
