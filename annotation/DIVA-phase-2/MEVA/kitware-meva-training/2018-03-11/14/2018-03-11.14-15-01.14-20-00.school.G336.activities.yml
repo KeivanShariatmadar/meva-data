@@ -1,0 +1,12 @@
+- {'act': {'act2': {'person_closes_vehicle_door': 1.0}, 'actors': [{'id1': 5, 'timespan': [{'tsr0': [6830, 6895]}]}], 'id2': 3, 'src_status': 'good', 'timespan': [{'tsr0': [6830, 6895]}]}}
+- {'act': {'act2': {'person_enters_vehicle': 1.0}, 'actors': [{'id1': 9, 'timespan': [{'tsr0': [6635, 6895]}]}, {'id1': 8, 'timespan': [{'tsr0': [6635, 6745]}]}], 'id2': 6, 'src_status': 'good', 'timespan': [{'tsr0': [6635, 6895]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 2, 'timespan': [{'tsr0': [3550, 3695]}]}], 'id2': 1, 'src_status': 'good', 'timespan': [{'tsr0': [3550, 3695]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 7, 'timespan': [{'tsr0': [7434, 7551]}]}], 'id2': 5, 'src_status': 'good', 'timespan': [{'tsr0': [7434, 7551]}]}}
+- {'act': {'act2': {'person_opens_vehicle_door': 1.0}, 'actors': [{'id1': 4, 'timespan': [{'tsr0': [6635, 6705]}]}, {'id1': 3, 'timespan': [{'tsr0': [6635, 6705]}]}], 'id2': 2, 'src_status': 'good', 'timespan': [{'tsr0': [6635, 6705]}]}}
+- {'act': {'act2': {'person_texts_on_phone': 1.0}, 'actors': [{'id1': 11, 'timespan': [{'tsr0': [8028, 8154]}]}], 'id2': 8, 'src_status': 'good', 'timespan': [{'tsr0': [8028, 8154]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 10, 'timespan': [{'tsr0': [7167, 7255]}]}], 'id2': 7, 'src_status': 'good', 'timespan': [{'tsr0': [7167, 7255]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 13, 'timespan': [{'tsr0': [8459, 8566]}]}], 'id2': 10, 'src_status': 'good', 'timespan': [{'tsr0': [8459, 8566]}]}}
+- {'act': {'act2': {'vehicle_stops': 1.0}, 'actors': [{'id1': 12, 'timespan': [{'tsr0': [8324, 8414]}]}], 'id2': 9, 'src_status': 'good', 'timespan': [{'tsr0': [8324, 8414]}]}}
+- {'act': {'act2': {'vehicle_turns_left': 1.0}, 'actors': [{'id1': 14, 'timespan': [{'tsr0': [8563, 8735]}]}], 'id2': 11, 'src_status': 'good', 'timespan': [{'tsr0': [8563, 8735]}]}}
+- {'act': {'act2': {'vehicle_turns_left': 1.0}, 'actors': [{'id1': 16, 'timespan': [{'tsr0': [396, 512]}]}], 'id2': 13, 'src_status': 'good', 'timespan': [{'tsr0': [396, 512]}]}}
+- {'act': {'act2': {'vehicle_turns_right': 1.0}, 'actors': [{'id1': 15, 'timespan': [{'tsr0': [8798, 8888]}]}], 'id2': 12, 'src_status': 'good', 'timespan': [{'tsr0': [8798, 8888]}]}}
