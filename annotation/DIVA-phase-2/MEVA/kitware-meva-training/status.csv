@@ -1,43 +1,43 @@
 activity, total, EO, IR
-hand_interacts_with_person, 20, 20, 0
-person_carries_heavy_object, 65, 65, 0
-person_closes_facility_door, 14, 14, 0
-person_closes_trunk, 9, 9, 0
-person_closes_vehicle_door, 71, 71, 0
-person_embraces_person, 5, 5, 0
-person_enters_scene_through_structure, 199, 199, 0
-person_enters_vehicle, 32, 32, 0
-person_exits_scene_through_structure, 223, 223, 0
-person_exits_vehicle, 44, 44, 0
-person_loads_vehicle, 6, 6, 0
-person_opens_facility_door, 167, 167, 0
-person_opens_trunk, 11, 11, 0
-person_opens_vehicle_door, 73, 73, 0
-person_picks_up_object, 137, 137, 0
-person_purchases, 4, 4, 0
-person_puts_down_object, 131, 131, 0
-person_reads_document, 39, 39, 0
-person_rides_bicycle, 14, 14, 0
-person_sits_down, 70, 70, 0
-person_stands_up, 58, 58, 0
-person_talks_on_phone, 42, 42, 0
-person_talks_to_person, 206, 206, 0
-person_texts_on_phone, 209, 209, 0
-person_transfers_object, 30, 30, 0
-person_unloads_vehicle, 9, 9, 0
-vehicle_drops_off_person, 5, 5, 0
-vehicle_makes_u_turn, 27, 27, 0
-vehicle_picks_up_person, 1, 1, 0
-vehicle_reverses, 29, 29, 0
-vehicle_starts, 76, 76, 0
-vehicle_stops, 90, 90, 0
-vehicle_turns_left, 101, 101, 0
-vehicle_turns_right, 101, 101, 0
+hand_interacts_with_person, 31, 31, 0
+person_carries_heavy_object, 120, 120, 0
+person_closes_facility_door, 15, 15, 0
+person_closes_trunk, 14, 14, 0
+person_closes_vehicle_door, 157, 157, 0
+person_embraces_person, 8, 8, 0
+person_enters_scene_through_structure, 439, 439, 0
+person_enters_vehicle, 75, 75, 0
+person_exits_scene_through_structure, 485, 485, 0
+person_exits_vehicle, 107, 107, 0
+person_loads_vehicle, 7, 7, 0
+person_opens_facility_door, 307, 307, 0
+person_opens_trunk, 16, 16, 0
+person_opens_vehicle_door, 166, 166, 0
+person_picks_up_object, 201, 201, 0
+person_purchases, 6, 6, 0
+person_puts_down_object, 183, 183, 0
+person_reads_document, 49, 49, 0
+person_rides_bicycle, 21, 21, 0
+person_sits_down, 102, 102, 0
+person_stands_up, 89, 89, 0
+person_talks_on_phone, 67, 67, 0
+person_talks_to_person, 403, 403, 0
+person_texts_on_phone, 325, 325, 0
+person_transfers_object, 49, 49, 0
+person_unloads_vehicle, 22, 22, 0
+vehicle_drops_off_person, 12, 12, 0
+vehicle_makes_u_turn, 30, 30, 0
+vehicle_picks_up_person, 3, 3, 0
+vehicle_reverses, 49, 49, 0
+vehicle_starts, 146, 146, 0
+vehicle_stops, 171, 171, 0
+vehicle_turns_left, 200, 200, 0
+vehicle_turns_right, 198, 198, 0
 
-Total (non-empty),2318,2318,0
+Total (non-empty),4273,4273,0
 
-Total clips, 146
-EO clips, 146
+Total clips, 267
+EO clips, 267
 IR clips, 0
 
-Git hash, a490c01e71a9b210c8ff47ada74f613ff02e0b42
+Git hash, 4db78ea9f7ea9cf1ca3e081cbc6a8de2451c118e
