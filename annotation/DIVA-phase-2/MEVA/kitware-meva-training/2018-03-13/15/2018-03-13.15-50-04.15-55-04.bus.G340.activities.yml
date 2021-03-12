@@ -1,0 +1,23 @@
+- {'act': {'act2': {'person_closes_vehicle_door': 1.0}, 'actors': [{'id1': 8, 'timespan': [{'tsr0': [5121, 5175]}]}, {'id1': 9, 'timespan': [{'tsr0': [5149, 5166]}]}], 'id2': 7, 'src_status': 'good', 'timespan': [{'tsr0': [5121, 5175]}]}}
+- {'act': {'act2': {'person_closes_vehicle_door': 1.0}, 'actors': [{'id1': 12, 'timespan': [{'tsr0': [5283, 5318]}]}, {'id1': 11, 'timespan': [{'tsr0': [5270, 5343]}]}], 'id2': 9, 'src_status': 'good', 'timespan': [{'tsr0': [5270, 5343]}]}}
+- {'act': {'act2': {'person_closes_vehicle_door': 1.0}, 'actors': [{'id1': 29, 'timespan': [{'tsr0': [6968, 7037]}]}, {'id1': 28, 'timespan': [{'tsr0': [6968, 7011]}]}], 'id2': 23, 'src_status': 'good', 'timespan': [{'tsr0': [6968, 7037]}]}}
+- {'act': {'act2': {'person_enters_scene_through_structure': 1.0}, 'actors': [{'id1': 1, 'timespan': [{'tsr0': [3802, 3830]}]}], 'id2': 0, 'src_status': 'good', 'timespan': [{'tsr0': [3802, 3830]}]}}
+- {'act': {'act2': {'person_enters_scene_through_structure': 1.0}, 'actors': [{'id1': 4, 'timespan': [{'tsr0': [5920, 5949]}]}], 'id2': 3, 'src_status': 'good', 'timespan': [{'tsr0': [5920, 5949]}]}}
+- {'act': {'act2': {'person_enters_vehicle': 1.0}, 'actors': [{'id1': 14, 'timespan': [{'tsr0': [5283, 5338]}]}, {'id1': 13, 'timespan': [{'tsr0': [5202, 5343]}]}], 'id2': 10, 'src_status': 'good', 'timespan': [{'tsr0': [5202, 5343]}]}}
+- {'act': {'act2': {'person_enters_vehicle': 1.0}, 'actors': [{'id1': 30, 'timespan': [{'tsr0': [6925, 7037]}]}, {'id1': 31, 'timespan': [{'tsr0': [6925, 7011]}]}], 'id2': 24, 'src_status': 'good', 'timespan': [{'tsr0': [6925, 7037]}]}}
+- {'act': {'act2': {'person_opens_vehicle_door': 1.0}, 'actors': [{'id1': 7, 'timespan': [{'tsr0': [5060, 5124]}]}], 'id2': 6, 'src_status': 'good', 'timespan': [{'tsr0': [5060, 5124]}]}}
+- {'act': {'act2': {'person_opens_vehicle_door': 1.0}, 'actors': [{'id1': 10, 'timespan': [{'tsr0': [5202, 5278]}]}], 'id2': 8, 'src_status': 'good', 'timespan': [{'tsr0': [5202, 5278]}]}}
+- {'act': {'act2': {'person_opens_vehicle_door': 1.0}, 'actors': [{'id1': 27, 'timespan': [{'tsr0': [6925, 6996]}]}, {'id1': 26, 'timespan': [{'tsr0': [6925, 6996]}]}], 'id2': 22, 'src_status': 'good', 'timespan': [{'tsr0': [6925, 6996]}]}}
+- {'act': {'act2': {'vehicle_reverses': 1.0}, 'actors': [{'id1': 15, 'timespan': [{'tsr0': [5490, 5543]}]}], 'id2': 11, 'src_status': 'good', 'timespan': [{'tsr0': [5490, 5543]}]}}
+- {'act': {'act2': {'vehicle_reverses': 1.0}, 'actors': [{'id1': 16, 'timespan': [{'tsr0': [5742, 6069]}]}], 'id2': 12, 'src_status': 'good', 'timespan': [{'tsr0': [5742, 6069]}]}}
+- {'act': {'act2': {'vehicle_reverses': 1.0}, 'actors': [{'id1': 32, 'timespan': [{'tsr0': [7119, 7415]}]}], 'id2': 25, 'src_status': 'good', 'timespan': [{'tsr0': [7119, 7415]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 6, 'timespan': [{'tsr0': [3404, 3524]}]}], 'id2': 5, 'src_status': 'good', 'timespan': [{'tsr0': [3404, 3524]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 18, 'timespan': [{'tsr0': [6074, 6158]}]}], 'id2': 14, 'src_status': 'good', 'timespan': [{'tsr0': [6074, 6158]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 20, 'timespan': [{'tsr0': [6037, 6086]}]}], 'id2': 16, 'src_status': 'good', 'timespan': [{'tsr0': [6037, 6086]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 23, 'timespan': [{'tsr0': [6328, 6469]}]}], 'id2': 19, 'src_status': 'good', 'timespan': [{'tsr0': [6328, 6469]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 33, 'timespan': [{'tsr0': [7438, 7585]}]}], 'id2': 26, 'src_status': 'good', 'timespan': [{'tsr0': [7438, 7585]}]}}
+- {'act': {'act2': {'vehicle_stops': 1.0}, 'actors': [{'id1': 5, 'timespan': [{'tsr0': [3289, 3402]}]}], 'id2': 4, 'src_status': 'good', 'timespan': [{'tsr0': [3289, 3402]}]}}
+- {'act': {'act2': {'vehicle_stops': 1.0}, 'actors': [{'id1': 21, 'timespan': [{'tsr0': [6088, 6111]}]}], 'id2': 17, 'src_status': 'good', 'timespan': [{'tsr0': [6088, 6111]}]}}
+- {'act': {'act2': {'vehicle_turns_left': 1.0}, 'actors': [{'id1': 34, 'timespan': [{'tsr0': [7501, 7589]}]}], 'id2': 27, 'src_status': 'good', 'timespan': [{'tsr0': [7501, 7589]}]}}
+- {'act': {'act2': {'vehicle_turns_right': 1.0}, 'actors': [{'id1': 17, 'timespan': [{'tsr0': [6067, 6227]}]}], 'id2': 13, 'src_status': 'good', 'timespan': [{'tsr0': [6067, 6227]}]}}
+- {'act': {'act2': {'vehicle_turns_right': 1.0}, 'actors': [{'id1': 19, 'timespan': [{'tsr0': [5699, 5839]}]}], 'id2': 15, 'src_status': 'good', 'timespan': [{'tsr0': [5699, 5839]}]}}
