@@ -23,6 +23,6 @@ for training. We expect to release periodic updates.
 
 ## Details
 
-This is drop 03, for 5 March 2021.
+This is drop 04, for 12 March 2021.
 
 Additional files contain the [activity counts](status.csv).
