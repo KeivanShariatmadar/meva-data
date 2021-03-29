@@ -1,0 +1,21 @@
+- {'act': {'act2': {'person_closes_vehicle_door': 1.0}, 'actors': [{'id1': 11, 'timespan': [{'tsr0': [5964, 6021]}]}, {'id1': 12, 'timespan': [{'tsr0': [5971, 6021]}]}], 'id2': 8, 'src_status': 'good', 'timespan': [{'tsr0': [5964, 6021]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 2, 'timespan': [{'tsr0': [5184, 5240]}]}], 'id2': 1, 'src_status': 'good', 'timespan': [{'tsr0': [5184, 5240]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 19, 'timespan': [{'tsr0': [5557, 5612]}]}], 'id2': 15, 'src_status': 'good', 'timespan': [{'tsr0': [5557, 5612]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 23, 'timespan': [{'tsr0': [7059, 7162]}]}], 'id2': 18, 'src_status': 'good', 'timespan': [{'tsr0': [7059, 7162]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 24, 'timespan': [{'tsr0': [7087, 7160]}]}], 'id2': 19, 'src_status': 'good', 'timespan': [{'tsr0': [7087, 7160]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 25, 'timespan': [{'tsr0': [7203, 7251]}]}], 'id2': 20, 'src_status': 'good', 'timespan': [{'tsr0': [7203, 7251]}]}}
+- {'act': {'act2': {'person_exits_scene_through_structure': 1.0}, 'actors': [{'id1': 26, 'timespan': [{'tsr0': [7252, 7291]}]}], 'id2': 21, 'src_status': 'good', 'timespan': [{'tsr0': [7252, 7291]}]}}
+- {'act': {'act2': {'person_exits_vehicle': 1.0}, 'actors': [{'id1': 5, 'timespan': [{'tsr0': [5128, 5177]}]}, {'id1': 4, 'timespan': [{'tsr0': [4967, 5177]}]}], 'id2': 3, 'src_status': 'good', 'timespan': [{'tsr0': [4967, 5177]}]}}
+- {'act': {'act2': {'person_exits_vehicle': 1.0}, 'actors': [{'id1': 10, 'timespan': [{'tsr0': [5971, 6002]}]}, {'id1': 9, 'timespan': [{'tsr0': [5471, 6002]}]}], 'id2': 7, 'src_status': 'not_good', 'timespan': [{'tsr0': [5471, 6002]}]}}
+- {'act': {'act2': {'person_opens_facility_door': 1.0}, 'actors': [{'id1': 18, 'timespan': [{'tsr0': [5557, 5609]}]}], 'id2': 14, 'src_status': 'good', 'timespan': [{'tsr0': [5557, 5609]}]}}
+- {'act': {'act2': {'person_opens_facility_door': 1.0}, 'actors': [{'id1': 22, 'timespan': [{'tsr0': [7059, 7133]}]}], 'id2': 17, 'src_status': 'good', 'timespan': [{'tsr0': [7059, 7133]}]}}
+- {'act': {'act2': {'person_opens_vehicle_door': 1.0}, 'actors': [{'id1': 3, 'timespan': [{'tsr0': [4967, 5057]}]}], 'id2': 2, 'src_status': 'good', 'timespan': [{'tsr0': [4967, 5057]}]}}
+- {'act': {'act2': {'person_opens_vehicle_door': 1.0}, 'actors': [{'id1': 8, 'timespan': [{'tsr0': [5471, 5603]}]}], 'id2': 6, 'src_status': 'good', 'timespan': [{'tsr0': [5471, 5603]}]}}
+- {'act': {'act2': {'person_talks_to_person': 1.0}, 'actors': [{'id1': 21, 'timespan': [{'tsr0': [6765, 7037]}]}, {'id1': 20, 'timespan': [{'tsr0': [6765, 7037]}]}], 'id2': 16, 'src_status': 'good', 'timespan': [{'tsr0': [6765, 7037]}]}}
+- {'act': {'act2': {'person_texts_on_phone': 1.0}, 'actors': [{'id1': 15, 'timespan': [{'tsr0': [6779, 7448]}]}], 'id2': 11, 'src_status': 'good', 'timespan': [{'tsr0': [6779, 7448]}]}}
+- {'act': {'act2': {'person_texts_on_phone': 1.0}, 'actors': [{'id1': 16, 'timespan': [{'tsr0': [7521, 7595]}]}], 'id2': 12, 'src_status': 'good', 'timespan': [{'tsr0': [7521, 7595]}]}}
+- {'act': {'act2': {'person_texts_on_phone': 1.0}, 'actors': [{'id1': 17, 'timespan': [{'tsr0': [7688, 9000]}]}], 'id2': 13, 'src_status': 'good', 'timespan': [{'tsr0': [7688, 9000]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 6, 'timespan': [{'tsr0': [5199, 5253]}]}], 'id2': 4, 'src_status': 'good', 'timespan': [{'tsr0': [5199, 5253]}]}}
+- {'act': {'act2': {'vehicle_starts': 1.0}, 'actors': [{'id1': 13, 'timespan': [{'tsr0': [6038, 6104]}]}], 'id2': 9, 'src_status': 'good', 'timespan': [{'tsr0': [6038, 6104]}]}}
+- {'act': {'act2': {'vehicle_stops': 1.0}, 'actors': [{'id1': 7, 'timespan': [{'tsr0': [5372, 5442]}]}], 'id2': 5, 'src_status': 'good', 'timespan': [{'tsr0': [5372, 5442]}]}}
+- {'act': {'act2': {'vehicle_stops': 1.0}, 'actors': [{'id1': 14, 'timespan': [{'tsr0': [8449, 8530]}]}], 'id2': 10, 'src_status': 'good', 'timespan': [{'tsr0': [8449, 8530]}]}}
