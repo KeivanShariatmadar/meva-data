@@ -14,7 +14,7 @@ for training. We expect to release periodic updates.
 ## Description
 
 * Scope: Training
-* Number of clips annotated: 267
+* Number of clips annotated: 914
 * Actev activities annotated: All 37 activities defined for ActEV
 * ActEV namespace: current
 * Other activities / objects annotated: n/a
