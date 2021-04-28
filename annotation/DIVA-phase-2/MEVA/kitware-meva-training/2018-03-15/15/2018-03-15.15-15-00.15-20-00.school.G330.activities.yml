@@ -1,0 +1,5 @@
+- {'act': {'act2': {'person_picks_up_object': 1.0}, 'actors': [{'id1': 9, 'timespan': [{'tsr0': [6296, 6320]}]}, {'id1': 8, 'timespan': [{'tsr0': [6296, 6320]}]}], 'id2': 6, 'src_status': 'good', 'timespan': [{'tsr0': [6296, 6320]}]}}
+- {'act': {'act2': {'person_puts_down_object': 1.0}, 'actors': [{'id1': 4, 'timespan': [{'tsr0': [5824, 5841]}]}, {'id1': 5, 'timespan': [{'tsr0': [5824, 5841]}]}], 'id2': 3, 'src_status': 'good', 'timespan': [{'tsr0': [5824, 5841]}]}}
+- {'act': {'act2': {'person_sits_down': 1.0}, 'actors': [{'id1': 3, 'timespan': [{'tsr0': [5824, 5851]}]}], 'id2': 2, 'src_status': 'good', 'timespan': [{'tsr0': [5824, 5851]}]}}
+- {'act': {'act2': {'person_stands_up': 1.0}, 'actors': [{'id1': 11, 'timespan': [{'tsr0': [6875, 6900]}]}], 'id2': 8, 'src_status': 'good', 'timespan': [{'tsr0': [6875, 6900]}]}}
+- {'act': {'act2': {'person_texts_on_phone': 1.0}, 'actors': [{'id1': 10, 'timespan': [{'tsr0': [6796, 8366]}]}], 'id2': 7, 'src_status': 'good', 'timespan': [{'tsr0': [6796, 8366]}]}}
