@@ -14,7 +14,7 @@ for training. We expect to release periodic updates.
 ## Description
 
 * Scope: Training
-* Number of clips annotated: 1334
+* Number of clips annotated: 1946
 * Actev activities annotated: All 37 activities defined for ActEV
 * ActEV namespace: current
 * Other activities / objects annotated: n/a
@@ -23,6 +23,7 @@ for training. We expect to release periodic updates.
 
 ## Details
 
-This is drop 10, for 19 May 2021.
+This is drop 11, for 22 July 2021.
 
 Additional files contain the [activity counts](status.csv).
+
